@@ -1,4 +1,10 @@
-# Blog posts
+# EloToJa
+
+## About me
+
+My name is Łukasz Budziak
+
+📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Test 2](https://elotoja.com/blog/test2/)
 - [Testing headings](https://elotoja.com/blog/headings/)
