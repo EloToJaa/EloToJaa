@@ -20,11 +20,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [Fix removeH1 plugin &amp; remove fontPicker](https://github.com/EloToJaa/blog/pull/60) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 - [Add asides &amp; ToC](https://github.com/EloToJaa/blog/pull/59) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 - [Fix Myszons mistake](https://github.com/quizer-app/frontend/pull/37) on [quizer-app/frontend](https://github.com/quizer-app/frontend)
 - [Revert &#34;status pages, flashcards&#34;](https://github.com/quizer-app/frontend/pull/36) on [quizer-app/frontend](https://github.com/quizer-app/frontend)
 - [Add button to load more projects](https://github.com/EloToJaa/blog/pull/40) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
-- [Add Footer &amp; small improvements](https://github.com/EloToJaa/blog/pull/36) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 
 #### ⭐ Recent Stars
 
