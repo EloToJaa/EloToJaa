@@ -4,11 +4,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/LabirynthTeleportGame2](https://github.com/EloToJaa/LabirynthTeleportGame2) - An amazing 3D game made with Unity
 - [EloToJaa/LabirynthTeleportGame1](https://github.com/EloToJaa/LabirynthTeleportGame1) - An amazing labirynth game made with Unity
 - [EloToJaa/Pacman](https://github.com/EloToJaa/Pacman) - 
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [quizer-app/frontend](https://github.com/quizer-app/frontend) - Quizer is a web application that allows users to create and take quizzes
-- [EloToJaa/LabirynthTeleportGame2](https://github.com/EloToJaa/LabirynthTeleportGame2) - An amazing 3D game made with Unity
 
 #### 🌱 My latest projects
 
@@ -28,11 +28,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
-- [Pieklik666/Labirynt](https://github.com/Pieklik666/Labirynt) - 
-- [123Kermit123/LabirynthGame](https://github.com/123Kermit123/LabirynthGame) - 
-- [EloToJaa/LabirynthTeleportGame1](https://github.com/EloToJaa/LabirynthTeleportGame1) - An amazing labirynth game made with Unity
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
+- [TheFenixOfficial/LabirynthTeleportGame](https://github.com/TheFenixOfficial/LabirynthTeleportGame) - 
+- [JakubKaczmarsk/portalowy_labirynt](https://github.com/JakubKaczmarsk/portalowy_labirynt) - portal is labirynt
+- [BossBarti/Labirynt](https://github.com/BossBarti/Labirynt) - Gra Unity Giganci 3D Labirynt
+- [Bigienn/DAMN.](https://github.com/Bigienn/DAMN.) - KanYE West &gt; Taylor Swift
+- [EloToJaa/LabirynthTeleportGame2](https://github.com/EloToJaa/LabirynthTeleportGame2) - An amazing 3D game made with Unity
 
 #### 📰 Recent Blog Posts
 
