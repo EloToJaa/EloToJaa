@@ -6,13 +6,13 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 - [EloToJaa/LabirynthTeleportGame1](https://github.com/EloToJaa/LabirynthTeleportGame1) - An amazing labirynth game made with Unity
 - [EloToJaa/LabirynthTeleportGame2](https://github.com/EloToJaa/LabirynthTeleportGame2) - An amazing 3D game made with Unity
-- [EloToJaa/Pacman](https://github.com/EloToJaa/Pacman) - 
+- [EloToJaa/Pacman](https://github.com/EloToJaa/Pacman) - Pacman game implemented in Unity
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [quizer-app/frontend](https://github.com/quizer-app/frontend) - Quizer is a web application that allows users to create and take quizzes
 
 #### 🌱 My latest projects
 
-- [EloToJaa/Pacman](https://github.com/EloToJaa/Pacman) - 
+- [EloToJaa/Pacman](https://github.com/EloToJaa/Pacman) - Pacman game implemented in Unity
 - [EloToJaa/LabirynthTeleportGame2](https://github.com/EloToJaa/LabirynthTeleportGame2) - An amazing 3D game made with Unity
 - [EloToJaa/LabirynthTeleportGame1](https://github.com/EloToJaa/LabirynthTeleportGame1) - An amazing labirynth game made with Unity
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
@@ -28,11 +28,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [MeteorDevelopment/meteor-client](https://github.com/MeteorDevelopment/meteor-client) - Based Minecraft utility mod.
 - [wtyczka220/ProjektGig3D](https://github.com/wtyczka220/ProjektGig3D) - 
 - [TheFenixOfficial/LabirynthTeleportGame](https://github.com/TheFenixOfficial/LabirynthTeleportGame) - 
 - [JakubKaczmarsk/portalowy_labirynt](https://github.com/JakubKaczmarsk/portalowy_labirynt) - portal is labirynt
 - [BossBarti/Labirynt](https://github.com/BossBarti/Labirynt) - Gra Unity Giganci 3D Labirynt
-- [Bigienn/DAMN.](https://github.com/Bigienn/DAMN.) - KanYE West &gt; Taylor Swift
 
 #### 📰 Recent Blog Posts
 
