@@ -28,11 +28,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [wtyczka220/ProjektGig3D](https://github.com/wtyczka220/ProjektGig3D) - 
 - [TheFenixOfficial/LabirynthTeleportGame](https://github.com/TheFenixOfficial/LabirynthTeleportGame) - 
 - [JakubKaczmarsk/portalowy_labirynt](https://github.com/JakubKaczmarsk/portalowy_labirynt) - portal is labirynt
 - [BossBarti/Labirynt](https://github.com/BossBarti/Labirynt) - Gra Unity Giganci 3D Labirynt
 - [Bigienn/DAMN.](https://github.com/Bigienn/DAMN.) - KanYE West &gt; Taylor Swift
-- [EloToJaa/LabirynthTeleportGame2](https://github.com/EloToJaa/LabirynthTeleportGame2) - An amazing 3D game made with Unity
 
 #### 📰 Recent Blog Posts
 
