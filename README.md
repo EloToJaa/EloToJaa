@@ -4,11 +4,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [quizer-app/Quizer](https://github.com/quizer-app/Quizer) - API for the Quizer App
 - [EloToJaa/LabirynthTeleportGame1](https://github.com/EloToJaa/LabirynthTeleportGame1) - An amazing labirynth game made with Unity
-- [EloToJaa/LabirynthTeleportGame2](https://github.com/EloToJaa/LabirynthTeleportGame2) - An amazing 3D game made with Unity
 - [EloToJaa/Pacman](https://github.com/EloToJaa/Pacman) - Pacman game implemented in Unity
+- [EloToJaa/LabirynthTeleportGame2](https://github.com/EloToJaa/LabirynthTeleportGame2) - An amazing 3D game made with Unity
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
-- [quizer-app/frontend](https://github.com/quizer-app/frontend) - Quizer is a web application that allows users to create and take quizzes
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [Fix auth &amp; docker](https://github.com/quizer-app/Quizer/pull/31) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Fix removeH1 plugin &amp; remove fontPicker](https://github.com/EloToJaa/blog/pull/60) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 - [Add asides &amp; ToC](https://github.com/EloToJaa/blog/pull/59) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 - [Fix Myszons mistake](https://github.com/quizer-app/frontend/pull/37) on [quizer-app/frontend](https://github.com/quizer-app/frontend)
 - [Revert &#34;status pages, flashcards&#34;](https://github.com/quizer-app/frontend/pull/36) on [quizer-app/frontend](https://github.com/quizer-app/frontend)
-- [Add button to load more projects](https://github.com/EloToJaa/blog/pull/40) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 
 #### ⭐ Recent Stars
 
