@@ -20,11 +20,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [Add logout endpoint](https://github.com/quizer-app/Quizer/pull/40) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Update cookie settings](https://github.com/quizer-app/Quizer/pull/39) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [AllowAnyHeaders](https://github.com/quizer-app/Quizer/pull/38) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Allow credentials in cors](https://github.com/quizer-app/Quizer/pull/37) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Update User](https://github.com/quizer-app/Quizer/pull/36) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
-- [Remove permission requirement for now](https://github.com/quizer-app/Quizer/pull/35) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 
 #### ⭐ Recent Stars
 
