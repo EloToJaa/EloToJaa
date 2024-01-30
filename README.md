@@ -5,10 +5,10 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 #### 👷 Check out what I'm currently working on
 
 - [quizer-app/Quizer](https://github.com/quizer-app/Quizer) - API for the Quizer App
+- [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [EloToJaa/LabirynthTeleportGame1](https://github.com/EloToJaa/LabirynthTeleportGame1) - An amazing labirynth game made with Unity
-- [EloToJaa/Pacman](https://github.com/EloToJaa/Pacman) - Pacman game implemented in Unity
 - [EloToJaa/LabirynthTeleportGame2](https://github.com/EloToJaa/LabirynthTeleportGame2) - An amazing 3D game made with Unity
-- [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
+- [EloToJaa/Pacman](https://github.com/EloToJaa/Pacman) - Pacman game implemented in Unity
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [Remove permission requirement for now](https://github.com/quizer-app/Quizer/pull/35) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
+- [Fix docker image](https://github.com/quizer-app/Quizer/pull/34) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
+- [Add claims to JWT](https://github.com/quizer-app/Quizer/pull/33) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Fix auth &amp; docker](https://github.com/quizer-app/Quizer/pull/31) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Fix removeH1 plugin &amp; remove fontPicker](https://github.com/EloToJaa/blog/pull/60) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
-- [Add asides &amp; ToC](https://github.com/EloToJaa/blog/pull/59) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
-- [Fix Myszons mistake](https://github.com/quizer-app/frontend/pull/37) on [quizer-app/frontend](https://github.com/quizer-app/frontend)
-- [Revert &#34;status pages, flashcards&#34;](https://github.com/quizer-app/frontend/pull/36) on [quizer-app/frontend](https://github.com/quizer-app/frontend)
 
 #### ⭐ Recent Stars
 
