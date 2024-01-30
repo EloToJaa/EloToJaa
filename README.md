@@ -20,11 +20,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [Update User](https://github.com/quizer-app/Quizer/pull/36) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Remove permission requirement for now](https://github.com/quizer-app/Quizer/pull/35) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Fix docker image](https://github.com/quizer-app/Quizer/pull/34) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Add claims to JWT](https://github.com/quizer-app/Quizer/pull/33) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Fix auth &amp; docker](https://github.com/quizer-app/Quizer/pull/31) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
-- [Fix removeH1 plugin &amp; remove fontPicker](https://github.com/EloToJaa/blog/pull/60) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 
 #### ⭐ Recent Stars
 
