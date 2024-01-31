@@ -4,8 +4,8 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
-- [quizer-app/Quizer](https://github.com/quizer-app/Quizer) - API for the Quizer App
 - [quizer-app/frontend](https://github.com/quizer-app/frontend) - Quizer is a web application that allows users to create and take quizzes
+- [quizer-app/Quizer](https://github.com/quizer-app/Quizer) - API for the Quizer App
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [EloToJaa/LabirynthTeleportGame1](https://github.com/EloToJaa/LabirynthTeleportGame1) - An amazing labirynth game made with Unity
 - [EloToJaa/LabirynthTeleportGame2](https://github.com/EloToJaa/LabirynthTeleportGame2) - An amazing 3D game made with Unity
@@ -20,11 +20,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [Fix useQueryAtom error &amp; update dependencies](https://github.com/quizer-app/frontend/pull/47) on [quizer-app/frontend](https://github.com/quizer-app/frontend)
 - [Add logout endpoint](https://github.com/quizer-app/Quizer/pull/40) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Update cookie settings](https://github.com/quizer-app/Quizer/pull/39) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [AllowAnyHeaders](https://github.com/quizer-app/Quizer/pull/38) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Allow credentials in cors](https://github.com/quizer-app/Quizer/pull/37) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
-- [Update User](https://github.com/quizer-app/Quizer/pull/36) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 
 #### ⭐ Recent Stars
 
