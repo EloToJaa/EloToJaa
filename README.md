@@ -28,11 +28,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [quirrel-dev/quirrel](https://github.com/quirrel-dev/quirrel) - The Task Queueing Solution for Serverless.
 - [MeteorDevelopment/meteor-client](https://github.com/MeteorDevelopment/meteor-client) - Based Minecraft utility mod.
 - [wtyczka220/ProjektGig3D](https://github.com/wtyczka220/ProjektGig3D) - 
 - [TheFenixOfficial/LabirynthTeleportGame](https://github.com/TheFenixOfficial/LabirynthTeleportGame) - 
 - [JakubKaczmarsk/portalowy_labirynt](https://github.com/JakubKaczmarsk/portalowy_labirynt) - portal is labirynt
-- [BossBarti/Labirynt](https://github.com/BossBarti/Labirynt) - Gra Unity Giganci 3D Labirynt
 
 #### 📰 Recent Blog Posts
 
