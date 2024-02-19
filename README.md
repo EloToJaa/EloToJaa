@@ -4,19 +4,19 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/Api-Template](https://github.com/EloToJaa/Api-Template) - 
 - [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
 - [quizer-app/frontend](https://github.com/quizer-app/frontend) - Quizer is a web application that allows users to create and take quizzes
 - [quizer-app/Quizer](https://github.com/quizer-app/Quizer) - API for the Quizer App
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
-- [EloToJaa/Pacman](https://github.com/EloToJaa/Pacman) - Pacman game implemented in Unity
 
 #### 🌱 My latest projects
 
+- [EloToJaa/Api-Template](https://github.com/EloToJaa/Api-Template) - 
 - [EloToJaa/Pacman](https://github.com/EloToJaa/Pacman) - Pacman game implemented in Unity
 - [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [EloToJaa/InifiniteRunner](https://github.com/EloToJaa/InifiniteRunner) - Infinite Runner mobile game
-- [EloToJaa/Auth](https://github.com/EloToJaa/Auth) - Test version of Auth API
 
 #### 🔨 My recent Pull Requests
 
