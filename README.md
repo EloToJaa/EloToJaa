@@ -5,10 +5,10 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 #### 👷 Check out what I'm currently working on
 
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
+- [quizer-app/frontend](https://github.com/quizer-app/frontend) - Quizer is a web application that allows users to create and take quizzes
+- [quizer-app/Quizer](https://github.com/quizer-app/Quizer) - API for the Quizer App
 - [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
-- [EloToJaa/Api-Template](https://github.com/EloToJaa/Api-Template) - 
-- [quizer-app/frontend](https://github.com/quizer-app/frontend) - Quizer is a web application that allows users to create and take quizzes
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [Fix signIn](https://github.com/quizer-app/Quizer/pull/44) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
+- [Fix type error](https://github.com/quizer-app/frontend/pull/72) on [quizer-app/frontend](https://github.com/quizer-app/frontend)
+- [Update signIn](https://github.com/quizer-app/frontend/pull/71) on [quizer-app/frontend](https://github.com/quizer-app/frontend)
 - [Update packages](https://github.com/EloToJaa/blog/pull/82) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 - [Order questions](https://github.com/quizer-app/Quizer/pull/42) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
-- [Add GetUserById](https://github.com/quizer-app/Quizer/pull/41) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
-- [Fix useQueryAtom error &amp; update dependencies](https://github.com/quizer-app/frontend/pull/47) on [quizer-app/frontend](https://github.com/quizer-app/frontend)
-- [Add logout endpoint](https://github.com/quizer-app/Quizer/pull/40) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 
 #### ⭐ Recent Stars
 
