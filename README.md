@@ -20,11 +20,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [Remove /files](https://github.com/quizer-app/Quizer/pull/45) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Fix signIn](https://github.com/quizer-app/Quizer/pull/44) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Fix type error](https://github.com/quizer-app/frontend/pull/72) on [quizer-app/frontend](https://github.com/quizer-app/frontend)
 - [Update signIn](https://github.com/quizer-app/frontend/pull/71) on [quizer-app/frontend](https://github.com/quizer-app/frontend)
 - [Update packages](https://github.com/EloToJaa/blog/pull/82) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
-- [Order questions](https://github.com/quizer-app/Quizer/pull/42) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 
 #### ⭐ Recent Stars
 
