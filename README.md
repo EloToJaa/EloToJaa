@@ -12,7 +12,7 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🌱 My latest projects
 
-- [EloToJaa/Api-Template](https://github.com/EloToJaa/Api-Template) - 
+- [EloToJaa/Api-Template](https://github.com/EloToJaa/Api-Template) - Asp.net API template
 - [EloToJaa/Pacman](https://github.com/EloToJaa/Pacman) - Pacman game implemented in Unity
 - [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
