@@ -20,11 +20,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [Add accountHash](https://github.com/quizer-app/Quizer/pull/54) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Fix ShortQuizResponse](https://github.com/quizer-app/Quizer/pull/53) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Fix QuizResponse](https://github.com/quizer-app/Quizer/pull/52) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Update Dockerfile](https://github.com/quizer-app/Quizer/pull/51) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Update Log levels](https://github.com/quizer-app/Quizer/pull/50) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
-- [Add seq](https://github.com/quizer-app/Quizer/pull/49) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 
 #### ⭐ Recent Stars
 
