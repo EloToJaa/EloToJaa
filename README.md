@@ -4,11 +4,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [quizer-app/Quizer](https://github.com/quizer-app/Quizer) - API for the Quizer App
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [quizer-app/frontend](https://github.com/quizer-app/frontend) - Quizer is a web application that allows users to create and take quizzes
-- [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [Naprawienie błędu z portalem](https://github.com/JakubKaczmarsk/portalowy_labirynt/pull/1) on [JakubKaczmarsk/portalowy_labirynt](https://github.com/JakubKaczmarsk/portalowy_labirynt)
 - [Add accountHash](https://github.com/quizer-app/Quizer/pull/54) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Fix ShortQuizResponse](https://github.com/quizer-app/Quizer/pull/53) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Fix QuizResponse](https://github.com/quizer-app/Quizer/pull/52) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 - [Update Dockerfile](https://github.com/quizer-app/Quizer/pull/51) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
-- [Update Log levels](https://github.com/quizer-app/Quizer/pull/50) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 
 #### ⭐ Recent Stars
 
