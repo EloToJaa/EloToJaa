@@ -4,11 +4,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate) - Asp.net API template
 - [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
 - [quizer-app/Quizer](https://github.com/quizer-app/Quizer) - API for the Quizer App
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
-- [quizer-app/frontend](https://github.com/quizer-app/frontend) - Quizer is a web application that allows users to create and take quizzes
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependencies](https://github.com/EloToJaa/blog/pull/101) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
+- [Improve animations &amp; ToC](https://github.com/EloToJaa/blog/pull/100) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 - [Update Dockerfile &amp; logging](https://github.com/EloToJaa/ApiTemplate/pull/2) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
 - [Add Quartz](https://github.com/EloToJaa/ApiTemplate/pull/1) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
 - [Naprawienie błędu z portalem](https://github.com/JakubKaczmarsk/portalowy_labirynt/pull/1) on [JakubKaczmarsk/portalowy_labirynt](https://github.com/JakubKaczmarsk/portalowy_labirynt)
-- [Add accountHash](https://github.com/quizer-app/Quizer/pull/54) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
-- [Fix ShortQuizResponse](https://github.com/quizer-app/Quizer/pull/53) on [quizer-app/Quizer](https://github.com/quizer-app/Quizer)
 
 #### ⭐ Recent Stars
 
