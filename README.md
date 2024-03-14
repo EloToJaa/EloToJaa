@@ -4,9 +4,9 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [EloToJaa/ansible](https://github.com/EloToJaa/ansible) - A simple playbook for installing packages &amp; setting up debian
 - [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
-- [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate) - Asp.net API template
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 
@@ -20,11 +20,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [Update dependencies](https://github.com/EloToJaa/blog/pull/113) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 - [Update dependencies](https://github.com/EloToJaa/blog/pull/101) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 - [Improve animations &amp; ToC](https://github.com/EloToJaa/blog/pull/100) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 - [Update Dockerfile &amp; logging](https://github.com/EloToJaa/ApiTemplate/pull/2) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
 - [Add Quartz](https://github.com/EloToJaa/ApiTemplate/pull/1) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
-- [Naprawienie błędu z portalem](https://github.com/JakubKaczmarsk/portalowy_labirynt/pull/1) on [JakubKaczmarsk/portalowy_labirynt](https://github.com/JakubKaczmarsk/portalowy_labirynt)
 
 #### ⭐ Recent Stars
 
