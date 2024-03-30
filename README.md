@@ -4,11 +4,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [quizer-app/frontend](https://github.com/quizer-app/frontend) - Quizer is a web application that allows users to create and take quizzes
 - [EloToJaa/ansible](https://github.com/EloToJaa/ansible) - A simple playbook for installing packages &amp; setting up debian
 - [EloToJaa/playbooks](https://github.com/EloToJaa/playbooks) - 
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
-- [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 
 #### 🌱 My latest projects
 
