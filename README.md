@@ -4,19 +4,19 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
 - [quizer-app/frontend](https://github.com/quizer-app/frontend) - Quizer is a web application that allows users to create and take quizzes
 - [EloToJaa/ansible](https://github.com/EloToJaa/ansible) - A simple playbook for installing packages &amp; setting up debian
-- [EloToJaa/playbooks](https://github.com/EloToJaa/playbooks) - 
 
 #### 🌱 My latest projects
 
+- [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
 - [EloToJaa/playbooks](https://github.com/EloToJaa/playbooks) - 
 - [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate) - Asp.net API template
 - [EloToJaa/Pacman](https://github.com/EloToJaa/Pacman) - Pacman game implemented in Unity
 - [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
-- [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 
 #### 🔨 My recent Pull Requests
 
