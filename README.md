@@ -20,11 +20,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [Test for Issue 256](https://github.com/indice-co/EDI.Net/pull/258) on [indice-co/EDI.Net](https://github.com/indice-co/EDI.Net)
 - [Update dependencies](https://github.com/EloToJaa/blog/pull/113) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 - [Update dependencies](https://github.com/EloToJaa/blog/pull/101) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 - [Improve animations &amp; ToC](https://github.com/EloToJaa/blog/pull/100) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 - [Update Dockerfile &amp; logging](https://github.com/EloToJaa/ApiTemplate/pull/2) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
-- [Add Quartz](https://github.com/EloToJaa/ApiTemplate/pull/1) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
 
 #### ⭐ Recent Stars
 
