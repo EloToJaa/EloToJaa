@@ -13,7 +13,7 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 #### 🌱 My latest projects
 
 - [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
-- [EloToJaa/playbooks](https://github.com/EloToJaa/playbooks) - 
+- [EloToJaa/playbooks](https://github.com/EloToJaa/playbooks) - A set of Ansible playbooks to be used in Semaphore
 - [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate) - Asp.net API template
 - [EloToJaa/Pacman](https://github.com/EloToJaa/Pacman) - Pacman game implemented in Unity
 - [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
