@@ -20,11 +20,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [update-segment-related-interfaces](https://github.com/EloToJaa/EDI/pull/5) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
 - [refactor: Refactor Program.cs for better structure and readability](https://github.com/EloToJaa/EDI/pull/4) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
 - [feat: Add new interfaces for elements, segment groups, segments, qualifiers, and messages. ](https://github.com/EloToJaa/EDI/pull/3) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
 - [Prettify EDI files](https://github.com/EloToJaa/EDI/pull/2) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
 - [refactor: Remove unnecessary namespace in Program.cs file](https://github.com/EloToJaa/EDI/pull/1) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
-- [Test for Issue 256](https://github.com/indice-co/EDI.Net/pull/258) on [indice-co/EDI.Net](https://github.com/indice-co/EDI.Net)
 
 #### ⭐ Recent Stars
 
