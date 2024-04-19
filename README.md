@@ -4,8 +4,8 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
-- [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
 - [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
+- [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [quizer-app/frontend](https://github.com/quizer-app/frontend) - Quizer is a web application that allows users to create and take quizzes
 - [EloToJaa/ansible](https://github.com/EloToJaa/ansible) - A simple playbook for installing packages &amp; setting up debian
