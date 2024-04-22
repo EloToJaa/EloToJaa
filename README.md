@@ -4,7 +4,7 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
-- [EloToJaa/zitadel](https://github.com/EloToJaa/zitadel) - 
+- [EloToJaa/zitadel](https://github.com/EloToJaa/zitadel) - Repository used to deploy zitadel
 - [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
 - [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
@@ -12,7 +12,7 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🌱 My latest projects
 
-- [EloToJaa/zitadel](https://github.com/EloToJaa/zitadel) - 
+- [EloToJaa/zitadel](https://github.com/EloToJaa/zitadel) - Repository used to deploy zitadel
 - [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
 - [EloToJaa/playbooks](https://github.com/EloToJaa/playbooks) - A set of Ansible playbooks to be used in Semaphore
 - [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate) - Asp.net API template
