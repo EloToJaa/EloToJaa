@@ -4,11 +4,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate) - Asp.net API template
 - [EloToJaa/zitadel](https://github.com/EloToJaa/zitadel) - Repository used to deploy zitadel
 - [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
 - [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
-- [quizer-app/frontend](https://github.com/quizer-app/frontend) - Quizer is a web application that allows users to create and take quizzes
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [chore: Update package versions in csproj files](https://github.com/EloToJaa/ApiTemplate/pull/10) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
 - [update-segment-related-interfaces](https://github.com/EloToJaa/EDI/pull/6) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
 - [update-segment-related-interfaces](https://github.com/EloToJaa/EDI/pull/5) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
 - [refactor: Refactor Program.cs for better structure and readability](https://github.com/EloToJaa/EDI/pull/4) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
 - [feat: Add new interfaces for elements, segment groups, segments, qualifiers, and messages. ](https://github.com/EloToJaa/EDI/pull/3) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
-- [Prettify EDI files](https://github.com/EloToJaa/EDI/pull/2) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
 
 #### ⭐ Recent Stars
 
