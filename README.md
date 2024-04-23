@@ -20,11 +20,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [image-service-settings-validation 2](https://github.com/EloToJaa/ApiTemplate/pull/13) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
+- [feat: Update authentication scheme to ZITADEL_BASIC](https://github.com/EloToJaa/ApiTemplate/pull/12) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
+- [refactor: Update ImageService dependencies](https://github.com/EloToJaa/ApiTemplate/pull/11) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
 - [chore: Update package versions in csproj files](https://github.com/EloToJaa/ApiTemplate/pull/10) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
 - [update-segment-related-interfaces](https://github.com/EloToJaa/EDI/pull/6) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
-- [update-segment-related-interfaces](https://github.com/EloToJaa/EDI/pull/5) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
-- [refactor: Refactor Program.cs for better structure and readability](https://github.com/EloToJaa/EDI/pull/4) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
-- [feat: Add new interfaces for elements, segment groups, segments, qualifiers, and messages. ](https://github.com/EloToJaa/EDI/pull/3) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
 
 #### ⭐ Recent Stars
 
