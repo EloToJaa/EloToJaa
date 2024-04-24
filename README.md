@@ -4,10 +4,10 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
 - [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate) - Asp.net API template
 - [EloToJaa/zitadel](https://github.com/EloToJaa/zitadel) - Repository used to deploy zitadel
 - [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
-- [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 
 #### 🌱 My latest projects
@@ -20,19 +20,19 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [update-pricat-file-output-dir](https://github.com/EloToJaa/EDI/pull/7) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
 - [image-service-settings-validation 2](https://github.com/EloToJaa/ApiTemplate/pull/13) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
 - [feat: Update authentication scheme to ZITADEL_BASIC](https://github.com/EloToJaa/ApiTemplate/pull/12) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
 - [refactor: Update ImageService dependencies](https://github.com/EloToJaa/ApiTemplate/pull/11) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
 - [chore: Update package versions in csproj files](https://github.com/EloToJaa/ApiTemplate/pull/10) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
-- [update-segment-related-interfaces](https://github.com/EloToJaa/EDI/pull/6) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
 
 #### ⭐ Recent Stars
 
+- [CardboardPowered/cardboard](https://github.com/CardboardPowered/cardboard) - The Bukkit/Spigot/Paper API implementation for Fabric
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android &amp; iOS)
 - [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib) - UI Components Library for React Native
 - [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 - [mrousavy/react-native-vision-camera](https://github.com/mrousavy/react-native-vision-camera) - 📸 A powerful, high-performance React Native Camera library.
-- [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 
 #### 📰 Recent Blog Posts
 
