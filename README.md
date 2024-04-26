@@ -4,11 +4,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
 - [TheFenixOfficial/LabirynthTeleportGame](https://github.com/TheFenixOfficial/LabirynthTeleportGame) - 
 - [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
 - [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate) - Asp.net API template
 - [EloToJaa/zitadel](https://github.com/EloToJaa/zitadel) - Repository used to deploy zitadel
-- [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
 
 #### 🌱 My latest projects
 
