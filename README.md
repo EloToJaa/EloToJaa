@@ -4,10 +4,10 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate) - Asp.net API template
 - [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
 - [TheFenixOfficial/LabirynthTeleportGame](https://github.com/TheFenixOfficial/LabirynthTeleportGame) - 
 - [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
-- [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate) - Asp.net API template
 - [EloToJaa/zitadel](https://github.com/EloToJaa/zitadel) - Repository used to deploy zitadel
 
 #### 🌱 My latest projects
@@ -20,11 +20,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [update-zitadel-settings-authorization](https://github.com/EloToJaa/ApiTemplate/pull/17) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
+- [update-zitadel-settings-authorization](https://github.com/EloToJaa/ApiTemplate/pull/16) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
 - [Fix game](https://github.com/TheFenixOfficial/LabirynthTeleportGame/pull/1) on [TheFenixOfficial/LabirynthTeleportGame](https://github.com/TheFenixOfficial/LabirynthTeleportGame)
 - [Fix game](https://github.com/EloToJaa/LabirynthTeleportGameT/pull/1) on [EloToJaa/LabirynthTeleportGameT](https://github.com/EloToJaa/LabirynthTeleportGameT)
 - [update-pricat-file-output-dir](https://github.com/EloToJaa/EDI/pull/7) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
-- [image-service-settings-validation 2](https://github.com/EloToJaa/ApiTemplate/pull/13) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
-- [feat: Update authentication scheme to ZITADEL_BASIC](https://github.com/EloToJaa/ApiTemplate/pull/12) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
 
 #### ⭐ Recent Stars
 
