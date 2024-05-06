@@ -23,8 +23,8 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 - [update-zitadel-settings-authorization](https://github.com/EloToJaa/ApiTemplate/pull/17) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
 - [update-zitadel-settings-authorization](https://github.com/EloToJaa/ApiTemplate/pull/16) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
 - [Fix game](https://github.com/TheFenixOfficial/LabirynthTeleportGame/pull/1) on [TheFenixOfficial/LabirynthTeleportGame](https://github.com/TheFenixOfficial/LabirynthTeleportGame)
-- [Fix game](https://github.com/EloToJaa/LabirynthTeleportGameT/pull/1) on [EloToJaa/LabirynthTeleportGameT](https://github.com/EloToJaa/LabirynthTeleportGameT)
 - [update-pricat-file-output-dir](https://github.com/EloToJaa/EDI/pull/7) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
+- [image-service-settings-validation 2](https://github.com/EloToJaa/ApiTemplate/pull/13) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
 
 #### ⭐ Recent Stars
 
