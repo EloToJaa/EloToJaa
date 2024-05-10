@@ -4,9 +4,9 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
-- [EloToJaa/Tasker](https://github.com/EloToJaa/Tasker) - Tasker monorepo
 - [EloToJaa/LabirynthTeleportGame](https://github.com/EloToJaa/LabirynthTeleportGame) - An amazing 3D game made with Unity
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
+- [EloToJaa/Tasker](https://github.com/EloToJaa/Tasker) - Tasker monorepo
 - [EloToJaa/zitadel](https://github.com/EloToJaa/zitadel) - Repository used to deploy zitadel
 - [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate) - Asp.net API template
 
