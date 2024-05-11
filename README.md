@@ -28,11 +28,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [mcstatus-io/mcutil](https://github.com/mcstatus-io/mcutil) - A library for interacting with the Minecraft protocol.
 - [wagslane/go-rabbitmq](https://github.com/wagslane/go-rabbitmq) - A wrapper of streadway/amqp that provides reconnection logic and sane defaults
 - [CardboardPowered/cardboard](https://github.com/CardboardPowered/cardboard) - The Bukkit/Spigot/Paper API implementation for Fabric
 - [callstack/react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android &amp; iOS)
 - [wix/react-native-ui-lib](https://github.com/wix/react-native-ui-lib) - UI Components Library for React Native
-- [jondot/awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
 
 #### 📰 Recent Blog Posts
 
