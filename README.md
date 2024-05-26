@@ -4,10 +4,10 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
-- [EloToJaa/Arkanoid](https://github.com/EloToJaa/Arkanoid) - Arkanoid game made with Unity
+- [EloToJaa/Tasker](https://github.com/EloToJaa/Tasker) - Tasker monorepo
 - [EloToJaa/playbooks](https://github.com/EloToJaa/playbooks) - A set of Ansible playbooks to be used in Semaphore
 - [EloToJaa/Bomberman](https://github.com/EloToJaa/Bomberman) - Bomberman 3D game made with Unity
-- [EloToJaa/Tasker](https://github.com/EloToJaa/Tasker) - Tasker monorepo
+- [EloToJaa/Arkanoid](https://github.com/EloToJaa/Arkanoid) - Arkanoid game made with Unity
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 
 #### 🌱 My latest projects
