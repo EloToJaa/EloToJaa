@@ -6,9 +6,9 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 - [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
 - [EloToJaa/Tasker](https://github.com/EloToJaa/Tasker) - Tasker monorepo
-- [EloToJaa/playbooks](https://github.com/EloToJaa/playbooks) - A set of Ansible playbooks to be used in Semaphore
 - [EloToJaa/Bomberman](https://github.com/EloToJaa/Bomberman) - Bomberman 3D game made with Unity
 - [EloToJaa/Arkanoid](https://github.com/EloToJaa/Arkanoid) - Arkanoid game made with Unity
+- [EloToJaa/playbooks](https://github.com/EloToJaa/playbooks) - A set of Ansible playbooks to be used in Semaphore
 
 #### 🌱 My latest projects
 
