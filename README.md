@@ -28,11 +28,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus) - Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C&#43;&#43; for educational purposes.
 - [mganss/ExcelMapper](https://github.com/mganss/ExcelMapper) - An Excel to object mapper. Maps POCOs to and from Excel. Configuration via convention, attributes, or fluent methods.
 - [martinjw/Holiday](https://github.com/martinjw/Holiday) - Calculate Public Holidays
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [zan8in/masscan](https://github.com/zan8in/masscan) - Masscan is a golang library to run masscan scans, parse scan results. 
-- [mcstatus-io/mcutil](https://github.com/mcstatus-io/mcutil) - A library for interacting with the Minecraft protocol.
 
 #### 📰 Recent Blog Posts
 
