@@ -12,11 +12,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🌱 My latest projects
 
+- [EloToJaa/ziglings](https://github.com/EloToJaa/ziglings) - 
 - [EloToJaa/Bomberman](https://github.com/EloToJaa/Bomberman) - Bomberman 3D game made with Unity
 - [EloToJaa/Arkanoid](https://github.com/EloToJaa/Arkanoid) - Arkanoid game made with Unity
 - [EloToJaa/Tasker](https://github.com/EloToJaa/Tasker) - Tasker monorepo
 - [EloToJaa/zitadel](https://github.com/EloToJaa/zitadel) - Repository used to deploy zitadel
-- [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
 
 #### 🔨 My recent Pull Requests
 
