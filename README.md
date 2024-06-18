@@ -4,19 +4,19 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/nix](https://github.com/EloToJaa/nix) - 
 - [EloToJaa/ziglings](https://github.com/EloToJaa/ziglings) - 
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [EloToJaa/Bomberman](https://github.com/EloToJaa/Bomberman) - Bomberman 3D game made with Unity
 - [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
-- [EloToJaa/Tasker](https://github.com/EloToJaa/Tasker) - Tasker monorepo
 
 #### 🌱 My latest projects
 
+- [EloToJaa/nix](https://github.com/EloToJaa/nix) - 
 - [EloToJaa/ziglings](https://github.com/EloToJaa/ziglings) - 
 - [EloToJaa/Bomberman](https://github.com/EloToJaa/Bomberman) - Bomberman 3D game made with Unity
 - [EloToJaa/Arkanoid](https://github.com/EloToJaa/Arkanoid) - Arkanoid game made with Unity
 - [EloToJaa/Tasker](https://github.com/EloToJaa/Tasker) - Tasker monorepo
-- [EloToJaa/zitadel](https://github.com/EloToJaa/zitadel) - Repository used to deploy zitadel
 
 #### 🔨 My recent Pull Requests
 
