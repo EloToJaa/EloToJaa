@@ -4,11 +4,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [EloToJaa/nix](https://github.com/EloToJaa/nix) - 
 - [EloToJaa/ziglings](https://github.com/EloToJaa/ziglings) - 
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [EloToJaa/Bomberman](https://github.com/EloToJaa/Bomberman) - Bomberman 3D game made with Unity
-- [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
 
 #### 🌱 My latest projects
 
@@ -20,11 +20,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [Migrate to Vercel](https://github.com/EloToJaa/blog/pull/167) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 - [refactor: Remove unnecessary ProjectReference from Edi.csproj](https://github.com/EloToJaa/EDI/pull/8) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
 - [add-domain-layer](https://github.com/EloToJaa/Tasker/pull/10) on [EloToJaa/Tasker](https://github.com/EloToJaa/Tasker)
 - [feat: Add Execution, ExecutionId, Part, and PartId classes](https://github.com/EloToJaa/Tasker/pull/9) on [EloToJaa/Tasker](https://github.com/EloToJaa/Tasker)
 - [feat: Add projects to the solution file](https://github.com/EloToJaa/Tasker/pull/7) on [EloToJaa/Tasker](https://github.com/EloToJaa/Tasker)
-- [feat: Update handleLoginPress to handleAuthorize in sign-up.tsx](https://github.com/EloToJaa/Tasker/pull/6) on [EloToJaa/Tasker](https://github.com/EloToJaa/Tasker)
 
 #### ⭐ Recent Stars
 
@@ -36,10 +36,8 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 📰 Recent Blog Posts
 
-- [Test 2](https://elotoja.com/blog/test2/)
+- [Cyber Apocalypse 2024: Hacker Royale](https://elotoja.com/blog/cyber-apocalypse/)
 - [Testing headings](https://elotoja.com/blog/headings/)
-- [Test](https://elotoja.com/blog/test-copy/)
-- [Test](https://elotoja.com/blog/test/)
 
 #### 📫 How to reach me:
   - Website   : <https://elotoja.com>
