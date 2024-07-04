@@ -4,9 +4,9 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [EloToJaa/ziglings](https://github.com/EloToJaa/ziglings) - 
-- [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [EloToJaa/Bomberman](https://github.com/EloToJaa/Bomberman) - Bomberman 3D game made with Unity
 - [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
 
