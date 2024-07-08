@@ -15,16 +15,16 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 - [EloToJaa/ziglings](https://github.com/EloToJaa/ziglings) - 
 - [EloToJaa/Bomberman](https://github.com/EloToJaa/Bomberman) - Bomberman 3D game made with Unity
 - [EloToJaa/Arkanoid](https://github.com/EloToJaa/Arkanoid) - Arkanoid game made with Unity
-- [EloToJaa/Tasker](https://github.com/EloToJaa/Tasker) - Tasker monorepo
 - [EloToJaa/zitadel](https://github.com/EloToJaa/zitadel) - Repository used to deploy zitadel
+- [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
 
 #### 🔨 My recent Pull Requests
 
 - [Migrate to Vercel](https://github.com/EloToJaa/blog/pull/167) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 - [refactor: Remove unnecessary ProjectReference from Edi.csproj](https://github.com/EloToJaa/EDI/pull/8) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
-- [add-domain-layer](https://github.com/EloToJaa/Tasker/pull/10) on [EloToJaa/Tasker](https://github.com/EloToJaa/Tasker)
-- [feat: Add Execution, ExecutionId, Part, and PartId classes](https://github.com/EloToJaa/Tasker/pull/9) on [EloToJaa/Tasker](https://github.com/EloToJaa/Tasker)
-- [feat: Add projects to the solution file](https://github.com/EloToJaa/Tasker/pull/7) on [EloToJaa/Tasker](https://github.com/EloToJaa/Tasker)
+- [update-zitadel-settings-authorization](https://github.com/EloToJaa/ApiTemplate/pull/17) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
+- [update-zitadel-settings-authorization](https://github.com/EloToJaa/ApiTemplate/pull/16) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
+- [Fix game](https://github.com/TheFenixOfficial/LabirynthTeleportGame/pull/1) on [TheFenixOfficial/LabirynthTeleportGame](https://github.com/TheFenixOfficial/LabirynthTeleportGame)
 
 #### ⭐ Recent Stars
 
