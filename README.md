@@ -4,8 +4,8 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
-- [EloToJaa/testweb](https://github.com/EloToJaa/testweb) - Example C Web API
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
+- [EloToJaa/testweb](https://github.com/EloToJaa/testweb) - Example C Web API
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [EloToJaa/ziglings](https://github.com/EloToJaa/ziglings) - My ziglings solutions
 - [EloToJaa/Bomberman](https://github.com/EloToJaa/Bomberman) - Bomberman 3D game made with Unity
