@@ -12,11 +12,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🌱 My latest projects
 
+- [EloToJaa/httpz](https://github.com/EloToJaa/httpz) - 
 - [EloToJaa/zap](https://github.com/EloToJaa/zap) - 
 - [EloToJaa/testweb](https://github.com/EloToJaa/testweb) - Example C Web API
 - [EloToJaa/ziglings](https://github.com/EloToJaa/ziglings) - My ziglings solutions
 - [EloToJaa/Bomberman](https://github.com/EloToJaa/Bomberman) - Bomberman 3D game made with Unity
-- [EloToJaa/Arkanoid](https://github.com/EloToJaa/Arkanoid) - Arkanoid game made with Unity
 
 #### 🔨 My recent Pull Requests
 
