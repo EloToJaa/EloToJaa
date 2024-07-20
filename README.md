@@ -4,11 +4,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [EloToJaa/httpz](https://github.com/EloToJaa/httpz) - 
 - [EloToJaa/zap](https://github.com/EloToJaa/zap) - 
 - [EloToJaa/testweb](https://github.com/EloToJaa/testweb) - Example C Web API
-- [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 
 #### 🌱 My latest projects
 
