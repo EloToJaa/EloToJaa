@@ -4,19 +4,19 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/elobot](https://github.com/EloToJaa/elobot) - 
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [EloToJaa/httpz](https://github.com/EloToJaa/httpz) - 
 - [EloToJaa/zap](https://github.com/EloToJaa/zap) - 
-- [EloToJaa/testweb](https://github.com/EloToJaa/testweb) - Example C Web API
 
 #### 🌱 My latest projects
 
+- [EloToJaa/elobot](https://github.com/EloToJaa/elobot) - 
 - [EloToJaa/httpz](https://github.com/EloToJaa/httpz) - 
 - [EloToJaa/zap](https://github.com/EloToJaa/zap) - 
 - [EloToJaa/testweb](https://github.com/EloToJaa/testweb) - Example C Web API
 - [EloToJaa/ziglings](https://github.com/EloToJaa/ziglings) - My ziglings solutions
-- [EloToJaa/Bomberman](https://github.com/EloToJaa/Bomberman) - Bomberman 3D game made with Unity
 
 #### 🔨 My recent Pull Requests
 
