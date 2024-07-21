@@ -4,8 +4,8 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
-- [EloToJaa/elobot](https://github.com/EloToJaa/elobot) - 
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
+- [EloToJaa/elobot](https://github.com/EloToJaa/elobot) - 
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [EloToJaa/httpz](https://github.com/EloToJaa/httpz) - 
 - [EloToJaa/zap](https://github.com/EloToJaa/zap) - 
