@@ -20,19 +20,19 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [Fix timespec](https://github.com/karlseguin/http.zig/pull/63) on [karlseguin/http.zig](https://github.com/karlseguin/http.zig)
 - [Migrate to Vercel](https://github.com/EloToJaa/blog/pull/167) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 - [refactor: Remove unnecessary ProjectReference from Edi.csproj](https://github.com/EloToJaa/EDI/pull/8) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
 - [update-zitadel-settings-authorization](https://github.com/EloToJaa/ApiTemplate/pull/17) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
 - [update-zitadel-settings-authorization](https://github.com/EloToJaa/ApiTemplate/pull/16) on [EloToJaa/ApiTemplate](https://github.com/EloToJaa/ApiTemplate)
-- [Fix game](https://github.com/TheFenixOfficial/LabirynthTeleportGame/pull/1) on [TheFenixOfficial/LabirynthTeleportGame](https://github.com/TheFenixOfficial/LabirynthTeleportGame)
 
 #### ⭐ Recent Stars
 
+- [sam701/zig-cli](https://github.com/sam701/zig-cli) - A simple package for building command line apps in Zig
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass](https://github.com/antunnitraj/Prism-Launcher-PolyMC-Offline-Bypass) - Bypass check if user has a real microsoft account linked with the Minecraft Launchers PrismLauncher, Prism Launcher, Poly MC or PolyMC
 - [JakubSzark/zig-string](https://github.com/JakubSzark/zig-string) - A String Library made for Zig
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 
 #### 📰 Recent Blog Posts
 
