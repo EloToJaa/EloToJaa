@@ -4,19 +4,19 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/zmodb](https://github.com/EloToJaa/zmodb) - 
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [EloToJaa/civetweb](https://github.com/EloToJaa/civetweb) - Example C Web API based on civetweb
 - [EloToJaa/elobot](https://github.com/EloToJaa/elobot) - Discord bot written in Go
-- [EloToJaa/httpz](https://github.com/EloToJaa/httpz) - An example HTTP API written in Zig based on httpz
 
 #### 🌱 My latest projects
 
+- [EloToJaa/zmodb](https://github.com/EloToJaa/zmodb) - 
 - [EloToJaa/elobot](https://github.com/EloToJaa/elobot) - Discord bot written in Go
 - [EloToJaa/httpz](https://github.com/EloToJaa/httpz) - An example HTTP API written in Zig based on httpz
 - [EloToJaa/zap](https://github.com/EloToJaa/zap) - An example HTTP API written in Zig based on zap
 - [EloToJaa/civetweb](https://github.com/EloToJaa/civetweb) - Example C Web API based on civetweb
-- [EloToJaa/ziglings](https://github.com/EloToJaa/ziglings) - My ziglings solutions
 
 #### 🔨 My recent Pull Requests
 
