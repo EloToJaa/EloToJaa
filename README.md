@@ -4,8 +4,8 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
-- [EloToJaa/zmodb](https://github.com/EloToJaa/zmodb) - 
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
+- [EloToJaa/zmodb](https://github.com/EloToJaa/zmodb) - 
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [EloToJaa/civetweb](https://github.com/EloToJaa/civetweb) - Example C Web API based on civetweb
 - [EloToJaa/elobot](https://github.com/EloToJaa/elobot) - Discord bot written in Go
