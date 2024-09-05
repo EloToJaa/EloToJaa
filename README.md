@@ -28,11 +28,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
+- [nlohmann/json](https://github.com/nlohmann/json) - JSON for Modern C&#43;&#43;
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [odygrd/quill](https://github.com/odygrd/quill) - Asynchronous Low Latency C&#43;&#43; Logging Library
 - [openwrt/docker](https://github.com/openwrt/docker) - Docker containers of the ImageBuilder and SDK
-- [karlseguin/zqlite.zig](https://github.com/karlseguin/zqlite.zig) - A thin SQLite wrapper for Zig
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
-- [jetzig-framework/jetzig](https://github.com/jetzig-framework/jetzig) - Jetzig is a web framework written in Zig
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 
 #### 📰 Recent Blog Posts
 
