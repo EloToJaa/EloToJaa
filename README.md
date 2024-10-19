@@ -30,11 +30,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) -   Nix Flake for the Zen Browser 
 - [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 - [SIMULATAN/hyprmag](https://github.com/SIMULATAN/hyprmag) - A wlroots-compatible Wayland screen magnifier, based on hyprpicker
 - [LGFae/swww](https://github.com/LGFae/swww) - A Solution to your Wayland Wallpaper Woes
-- [rofl0r/ncdu](https://github.com/rofl0r/ncdu) - inofficial fork of &#34;NCurses Disk Usage&#34;
 
 #### 📰 Recent Blog Posts
 
