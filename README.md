@@ -30,11 +30,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim &#43; terminal multiplexer splits. Supports tmux, Wezterm, and Kitty. Think about splits in terms of &#34;up/down/left/right&#34;.
 - [pubkey/rxdb](https://github.com/pubkey/rxdb) - A fast, local first, reactive Database for JavaScript Applications https://rxdb.info/
 - [0xc000022070/zen-browser-flake](https://github.com/0xc000022070/zen-browser-flake) -   Nix Flake for the Zen Browser 
-- [libratbag/piper](https://github.com/libratbag/piper) - GTK application to configure gaming devices
 
 #### 📰 Recent Blog Posts
 
