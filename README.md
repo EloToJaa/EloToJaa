@@ -22,11 +22,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [Remove context menu background transparency](https://github.com/Frost-Phoenix/nixos-config/pull/51) on [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config)
 - [Fix transparency in context menus](https://github.com/Frost-Phoenix/nixos-config/pull/50) on [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config)
 - [Rebase v1](https://github.com/Frost-Phoenix/nixos-config/pull/36) on [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config)
 - [Fix timespec](https://github.com/karlseguin/http.zig/pull/63) on [karlseguin/http.zig](https://github.com/karlseguin/http.zig)
 - [Migrate to Vercel](https://github.com/EloToJaa/blog/pull/167) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
-- [refactor: Remove unnecessary ProjectReference from Edi.csproj](https://github.com/EloToJaa/EDI/pull/8) on [EloToJaa/EDI](https://github.com/EloToJaa/EDI)
 
 #### ⭐ Recent Stars
 
