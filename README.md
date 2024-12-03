@@ -6,19 +6,19 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/aoc-2024](https://github.com/EloToJaa/aoc-2024) - Advent of Code 2024
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config) - ❄️ NixOs / Hyprland rice with Home-Manager ❄️
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
-- [EloToJaa/zmodb](https://github.com/EloToJaa/zmodb) - Zig modbus library based on libmodbus
 
 #### 🌱 My latest projects
 
+- [EloToJaa/aoc-2024](https://github.com/EloToJaa/aoc-2024) - Advent of Code 2024
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/zmodb](https://github.com/EloToJaa/zmodb) - Zig modbus library based on libmodbus
 - [EloToJaa/elobot](https://github.com/EloToJaa/elobot) - Discord bot written in Go
 - [EloToJaa/httpz](https://github.com/EloToJaa/httpz) - An example HTTP API written in Zig based on httpz
-- [EloToJaa/zap](https://github.com/EloToJaa/zap) - An example HTTP API written in Zig based on zap
 
 #### 🔨 My recent Pull Requests
 
