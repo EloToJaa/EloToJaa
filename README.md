@@ -30,11 +30,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [Fallenbagel/jellyseerr](https://github.com/Fallenbagel/jellyseerr) - Fork of overseerr for jellyfin support.
+- [Vendicated/Vencord](https://github.com/Vendicated/Vencord) - The cutest Discord client mod
+- [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
-- [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
-- [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
-- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 #### 📰 Recent Blog Posts
 
