@@ -6,19 +6,19 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/todoer](https://github.com/EloToJaa/todoer) - 
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solution to leetcode problems
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [EloToJaa/go-htmx](https://github.com/EloToJaa/go-htmx) - 
-- [EloToJaa/aoc-2024](https://github.com/EloToJaa/aoc-2024) - Advent of Code 2024
 
 #### 🌱 My latest projects
 
+- [EloToJaa/todoer](https://github.com/EloToJaa/todoer) - 
 - [EloToJaa/go-htmx](https://github.com/EloToJaa/go-htmx) - 
 - [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solution to leetcode problems
 - [EloToJaa/aoc-2024](https://github.com/EloToJaa/aoc-2024) - Advent of Code 2024
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
-- [EloToJaa/zmodb](https://github.com/EloToJaa/zmodb) - Zig modbus library based on libmodbus
 
 #### 🔨 My recent Pull Requests
 
