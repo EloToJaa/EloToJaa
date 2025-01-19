@@ -6,10 +6,10 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/todoer](https://github.com/EloToJaa/todoer) - 
 - [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solution to leetcode problems
-- [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [EloToJaa/go-htmx](https://github.com/EloToJaa/go-htmx) - 
 
 #### 🌱 My latest projects
