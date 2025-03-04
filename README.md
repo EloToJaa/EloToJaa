@@ -6,11 +6,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solution to leetcode problems
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [EloToJaa/ziglings](https://github.com/EloToJaa/ziglings) - 
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
-- [EloToJaa/todoer](https://github.com/EloToJaa/todoer) - A todo mobile app with cloud sync
 
 #### 🌱 My latest projects
 
