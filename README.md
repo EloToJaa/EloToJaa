@@ -8,17 +8,17 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 - [EloToJaa/aoc](https://github.com/EloToJaa/aoc) - Advent of Code 2024
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
+- [EloToJaa/chartable](https://github.com/EloToJaa/chartable) - 
 - [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms) - A library of all the algorithms I wrote in C&#43;&#43;
 - [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solution to leetcode problems
-- [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 
 #### 🌱 My latest projects
 
+- [EloToJaa/chartable](https://github.com/EloToJaa/chartable) - 
 - [EloToJaa/ziglings](https://github.com/EloToJaa/ziglings) - 
 - [EloToJaa/todoer](https://github.com/EloToJaa/todoer) - A todo mobile app with cloud sync
 - [EloToJaa/go-htmx](https://github.com/EloToJaa/go-htmx) - 
 - [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solution to leetcode problems
-- [EloToJaa/aoc](https://github.com/EloToJaa/aoc) - Advent of Code 2024
 
 #### 🔨 My recent Pull Requests
 
