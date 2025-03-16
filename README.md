@@ -9,8 +9,8 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 - [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms) - A library of all the algorithms I wrote in C&#43;&#43;
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/chartable](https://github.com/EloToJaa/chartable) - 
-- [EloToJaa/aoc](https://github.com/EloToJaa/aoc) - Advent of Code 2024
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
+- [EloToJaa/aoc](https://github.com/EloToJaa/aoc) - Advent of Code 2024
 
 #### 🌱 My latest projects
 
