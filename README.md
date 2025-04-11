@@ -30,11 +30,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [henrriusdev/gonertia_svelte_example](https://github.com/henrriusdev/gonertia_svelte_example) - Example of a working Golang app with Svelte and Inertia.js adapted to golang
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 
 #### 📰 Recent Blog Posts
 
