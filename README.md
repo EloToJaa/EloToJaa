@@ -6,8 +6,8 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
-- [EloToJaa/go-inertia](https://github.com/EloToJaa/go-inertia) - Inertia template with Go, Echo, Svelte and Vite
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
+- [EloToJaa/go-inertia](https://github.com/EloToJaa/go-inertia) - Inertia template with Go, Echo, Svelte and Vite
 - [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solution to leetcode problems
 - [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms) - A library of all the algorithms I wrote in C&#43;&#43;
 - [EloToJaa/chartable](https://github.com/EloToJaa/chartable) - 
