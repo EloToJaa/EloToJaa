@@ -7,14 +7,14 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 #### 👷 Check out what I'm currently working on
 
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
+- [EloToJaa/echo-inertia](https://github.com/EloToJaa/echo-inertia) - Inertia template with Go, Echo, Svelte and Vite
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
-- [EloToJaa/go-inertia](https://github.com/EloToJaa/go-inertia) - Inertia template with Go, Echo, Svelte and Vite
 - [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solution to leetcode problems
 - [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms) - A library of all the algorithms I wrote in C&#43;&#43;
 
 #### 🌱 My latest projects
 
-- [EloToJaa/go-inertia](https://github.com/EloToJaa/go-inertia) - Inertia template with Go, Echo, Svelte and Vite
+- [EloToJaa/echo-inertia](https://github.com/EloToJaa/echo-inertia) - Inertia template with Go, Echo, Svelte and Vite
 - [EloToJaa/chartable](https://github.com/EloToJaa/chartable) - 
 - [EloToJaa/ziglings](https://github.com/EloToJaa/ziglings) - 
 - [EloToJaa/todoer](https://github.com/EloToJaa/todoer) - A todo mobile app with cloud sync
