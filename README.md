@@ -9,8 +9,8 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/go-inertia](https://github.com/EloToJaa/go-inertia) - Template for Go HTTP server with Svelte 5 and Inertia 2
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
-- [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solution to leetcode problems
 - [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms) - A library of all the algorithms I wrote in C&#43;&#43;
+- [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solution to leetcode problems
 
 #### 🌱 My latest projects
 
