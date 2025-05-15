@@ -22,19 +22,19 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [Change see to set in wireguard scripts](https://github.com/notthebee/nix-config/pull/25) on [notthebee/nix-config](https://github.com/notthebee/nix-config)
 - [Remove context menu background transparency](https://github.com/Frost-Phoenix/nixos-config/pull/51) on [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config)
 - [Fix transparency in context menus](https://github.com/Frost-Phoenix/nixos-config/pull/50) on [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config)
 - [Rebase v1](https://github.com/Frost-Phoenix/nixos-config/pull/36) on [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config)
 - [Fix timespec](https://github.com/karlseguin/http.zig/pull/63) on [karlseguin/http.zig](https://github.com/karlseguin/http.zig)
-- [Migrate to Vercel](https://github.com/EloToJaa/blog/pull/167) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 
 #### ⭐ Recent Stars
 
+- [notthebee/nix-config](https://github.com/notthebee/nix-config) - Configuration files for my NixOS and nix-darwin machines
 - [ImranR98/Obtainium](https://github.com/ImranR98/Obtainium) - Get Android app updates straight from the source.
 - [aksiksi/compose2nix](https://github.com/aksiksi/compose2nix) - Generate a NixOS config from a Docker Compose project.
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [nix-community/nix-index](https://github.com/nix-community/nix-index) - Quickly locate nix packages with specific files [maintainers=@bennofs @figsoda @raitobezarius]
-- [Kozea/Radicale](https://github.com/Kozea/Radicale) - A simple CalDAV (calendar) and CardDAV (contact) server.
 
 #### 📰 Recent Blog Posts
 
