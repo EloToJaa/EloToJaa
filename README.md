@@ -7,18 +7,18 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 #### 👷 Check out what I'm currently working on
 
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
+- [EloToJaa/nvim-config](https://github.com/EloToJaa/nvim-config) - Neovim config
 - [notthebee/nix-config](https://github.com/notthebee/nix-config) - Configuration files for my NixOS and nix-darwin machines
 - [EloToJaa/go-inertia](https://github.com/EloToJaa/go-inertia) - Template for Go HTTP server with Svelte 5 and Inertia 2
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
-- [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solution to leetcode problems
 
 #### 🌱 My latest projects
 
+- [EloToJaa/nvim-config](https://github.com/EloToJaa/nvim-config) - Neovim config
 - [EloToJaa/go-inertia](https://github.com/EloToJaa/go-inertia) - Template for Go HTTP server with Svelte 5 and Inertia 2
 - [EloToJaa/chartable](https://github.com/EloToJaa/chartable) - 
 - [EloToJaa/ziglings](https://github.com/EloToJaa/ziglings) - 
 - [EloToJaa/todoer](https://github.com/EloToJaa/todoer) - A todo mobile app with cloud sync
-- [EloToJaa/go-htmx](https://github.com/EloToJaa/go-htmx) - 
 
 #### 🔨 My recent Pull Requests
 
