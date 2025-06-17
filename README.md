@@ -30,11 +30,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [user-none/poddown](https://github.com/user-none/poddown) - A simple podcast downloader
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [joehillen/sysz](https://github.com/joehillen/sysz) - An fzf  terminal UI for systemctl
-- [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 
 #### 📰 Recent Blog Posts
 
