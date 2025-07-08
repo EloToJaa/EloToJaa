@@ -30,11 +30,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts in neovim
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
 - [nvim-neorocks/lz.n](https://github.com/nvim-neorocks/lz.n) - 🦥 A dead simple lazy-loading Lua library for Neovim plugins.
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [user-none/poddown](https://github.com/user-none/poddown) - A simple podcast downloader
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
 #### 📰 Recent Blog Posts
 
