@@ -18,7 +18,7 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 - [EloToJaa/nvim-config](https://github.com/EloToJaa/nvim-config) - Neovim config
 - [EloToJaa/go-inertia](https://github.com/EloToJaa/go-inertia) - Template for Go HTTP server with Svelte 5 and Inertia 2
 - [EloToJaa/chartable](https://github.com/EloToJaa/chartable) - Char table and converter CLI tool writen in Zig
-- [EloToJaa/ziglings](https://github.com/EloToJaa/ziglings) - 
+- [EloToJaa/ziglings](https://github.com/EloToJaa/ziglings) - My solutions to ziglings problems
 
 #### 🔨 My recent Pull Requests
 
@@ -30,11 +30,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
+- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins &amp; more.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-- [Gerg-L/spicetify-nix](https://github.com/Gerg-L/spicetify-nix) - A nix library for modifying spotify with https://github.com/spicetify
-- [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts in neovim
 
 #### 📰 Recent Blog Posts
 
