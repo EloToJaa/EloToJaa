@@ -17,7 +17,7 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 - [EloToJaa/nvim-work](https://github.com/EloToJaa/nvim-work) - My neovim configuration for my work laptop
 - [EloToJaa/nvim-config](https://github.com/EloToJaa/nvim-config) - Neovim config
 - [EloToJaa/go-inertia](https://github.com/EloToJaa/go-inertia) - Template for Go HTTP server with Svelte 5 and Inertia 2
-- [EloToJaa/chartable](https://github.com/EloToJaa/chartable) - 
+- [EloToJaa/chartable](https://github.com/EloToJaa/chartable) - Char table and converter CLI tool writen in Zig
 - [EloToJaa/ziglings](https://github.com/EloToJaa/ziglings) - 
 
 #### 🔨 My recent Pull Requests
