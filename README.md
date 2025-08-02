@@ -30,11 +30,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [catppuccin/nushell](https://github.com/catppuccin/nushell) - 🐚 Soothing pastel theme for nushell
 - [thomasgalliker/Diacritics.NET](https://github.com/thomasgalliker/Diacritics.NET) - Finds and replaces diacritics in strings
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [e-tho/bzmenu](https://github.com/e-tho/bzmenu) - Launcher-driven Bluetooth manager for Linux
 - [e-tho/iwmenu](https://github.com/e-tho/iwmenu) - Launcher-driven Wi-Fi manager for Linux
-- [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin
 
 #### 📰 Recent Blog Posts
 
