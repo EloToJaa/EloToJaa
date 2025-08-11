@@ -10,15 +10,15 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 - [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solution to leetcode problems
 - [EloToJaa/nvim-config](https://github.com/EloToJaa/nvim-config) - Neovim config
 - [notthebee/nix-config](https://github.com/notthebee/nix-config) - Configuration files for my NixOS and nix-darwin machines
-- [EloToJaa/go-inertia](https://github.com/EloToJaa/go-inertia) - Template for Go HTTP server with Svelte 5 and Inertia 2
+- [EloToJaa/train-ticketing-machine](https://github.com/EloToJaa/train-ticketing-machine) - Train ticketing machine user interface
 
 #### 🌱 My latest projects
 
 - [EloToJaa/nvim-work](https://github.com/EloToJaa/nvim-work) - My neovim configuration for my work laptop
 - [EloToJaa/nvim-config](https://github.com/EloToJaa/nvim-config) - Neovim config
+- [EloToJaa/train-ticketing-machine](https://github.com/EloToJaa/train-ticketing-machine) - Train ticketing machine user interface
 - [EloToJaa/go-inertia](https://github.com/EloToJaa/go-inertia) - Template for Go HTTP server with Svelte 5 and Inertia 2
 - [EloToJaa/chartable](https://github.com/EloToJaa/chartable) - Char table and converter CLI tool writen in Zig
-- [EloToJaa/ziglings](https://github.com/EloToJaa/ziglings) - My solutions to ziglings problems
 
 #### 🔨 My recent Pull Requests
 
