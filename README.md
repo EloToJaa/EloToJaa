@@ -22,11 +22,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [Rebase](https://github.com/EloToJaa/nixos-anywhere/pull/1) on [EloToJaa/nixos-anywhere](https://github.com/EloToJaa/nixos-anywhere)
+- [DELETE ME](https://github.com/nix-community/nixos-anywhere-examples/pull/18) on [nix-community/nixos-anywhere-examples](https://github.com/nix-community/nixos-anywhere-examples)
 - [Change see to set in wireguard scripts](https://github.com/notthebee/nix-config/pull/25) on [notthebee/nix-config](https://github.com/notthebee/nix-config)
 - [Remove context menu background transparency](https://github.com/Frost-Phoenix/nixos-config/pull/51) on [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config)
 - [Fix transparency in context menus](https://github.com/Frost-Phoenix/nixos-config/pull/50) on [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config)
-- [Rebase v1](https://github.com/Frost-Phoenix/nixos-config/pull/36) on [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config)
-- [Fix timespec](https://github.com/karlseguin/http.zig/pull/63) on [karlseguin/http.zig](https://github.com/karlseguin/http.zig)
 
 #### ⭐ Recent Stars
 
