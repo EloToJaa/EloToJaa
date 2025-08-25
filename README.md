@@ -6,19 +6,19 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/iotexpo](https://github.com/EloToJaa/iotexpo) - IoT Expo exporter
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solution to leetcode problems
 - [EloToJaa/nvim-config](https://github.com/EloToJaa/nvim-config) - Neovim config
 - [notthebee/nix-config](https://github.com/notthebee/nix-config) - Configuration files for my NixOS and nix-darwin machines
-- [EloToJaa/train-ticketing-machine](https://github.com/EloToJaa/train-ticketing-machine) - Train ticketing machine user interface
 
 #### 🌱 My latest projects
 
+- [EloToJaa/iotexpo](https://github.com/EloToJaa/iotexpo) - IoT Expo exporter
 - [EloToJaa/nvim-work](https://github.com/EloToJaa/nvim-work) - My neovim configuration for my work laptop
 - [EloToJaa/nvim-config](https://github.com/EloToJaa/nvim-config) - Neovim config
 - [EloToJaa/train-ticketing-machine](https://github.com/EloToJaa/train-ticketing-machine) - Train ticketing machine user interface
 - [EloToJaa/go-inertia](https://github.com/EloToJaa/go-inertia) - Template for Go HTTP server with Svelte 5 and Inertia 2
-- [EloToJaa/chartable](https://github.com/EloToJaa/chartable) - Char table and converter CLI tool writen in Zig
 
 #### 🔨 My recent Pull Requests
 
