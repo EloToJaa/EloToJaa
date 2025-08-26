@@ -30,11 +30,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
 - [NovaViper/NixConfig](https://github.com/NovaViper/NixConfig) - Personal NixOS Config
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [EasyNetQ/EasyNetQ](https://github.com/EasyNetQ/EasyNetQ) - An easy to use .NET API for RabbitMQ
 - [tiiuae/sbomnix](https://github.com/tiiuae/sbomnix) - A suite of utilities to help with software supply chain challenges on nix targets
-- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 
 #### 📰 Recent Blog Posts
 
