@@ -30,11 +30,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee] 
 - [Mic92/dotfiles](https://github.com/Mic92/dotfiles) - My NixOS dotfiles
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
-- [NovaViper/NixConfig](https://github.com/NovaViper/NixConfig) - Personal NixOS Config
 
 #### 📰 Recent Blog Posts
 
