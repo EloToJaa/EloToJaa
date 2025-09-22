@@ -30,11 +30,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader) - Media Downloader is a Qt/C&#43;&#43; front end to yt-dlp, youtube-dl, gallery-dl, lux, you-get, svtplay-dl, aria2c, wget and safari books..
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [abenz1267/elephant](https://github.com/abenz1267/elephant) - 
 - [YouG-o/YouTube_No_Translation](https://github.com/YouG-o/YouTube_No_Translation) - Web browser add-on that prevents YouTube&#39;s automatic translations! It keeps titles, descriptions, and audio in their original language.
-- [jpetrucciani/nix](https://github.com/jpetrucciani/nix) - ❄️ my nix modules, overlays, host configurations, and more!
 
 #### 📰 Recent Blog Posts
 
