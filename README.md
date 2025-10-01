@@ -6,9 +6,9 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
 - [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms) - A library of all the algorithms I wrote in C&#43;&#43;
-- [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/iotexpo](https://github.com/EloToJaa/iotexpo) - IoT Expo exporter
 - [EloToJaa/nvim-config](https://github.com/EloToJaa/nvim-config) - Neovim config
 
