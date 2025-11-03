@@ -30,11 +30,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn&#39;t break your flow.
 - [ErikReider/SwayOSD](https://github.com/ErikReider/SwayOSD) - A GTK based on screen display for keyboard shortcuts like caps-lock and volume
-- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C&#43;&#43;
 
 #### 📰 Recent Blog Posts
 
