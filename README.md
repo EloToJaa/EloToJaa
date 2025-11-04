@@ -7,10 +7,10 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 #### 👷 Check out what I'm currently working on
 
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
+- [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
+- [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
+- [EloToJaa/civetweb](https://github.com/EloToJaa/civetweb) - Example C Web API based on civetweb
 - [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms) - A library of all the algorithms I wrote in C&#43;&#43;
-- [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
-- [EloToJaa/iotexpo](https://github.com/EloToJaa/iotexpo) - IoT Expo exporter
-- [EloToJaa/nvim-config](https://github.com/EloToJaa/nvim-config) - Neovim config
 
 #### 🌱 My latest projects
 
@@ -24,17 +24,17 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 - [Fix/module options](https://github.com/EloToJaa/dotfiles/pull/68) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Refactor: Add module options](https://github.com/EloToJaa/dotfiles/pull/67) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [Rebase](https://github.com/EloToJaa/nixos-anywhere/pull/1) on [EloToJaa/nixos-anywhere](https://github.com/EloToJaa/nixos-anywhere)
 - [DELETE ME](https://github.com/nix-community/nixos-anywhere-examples/pull/18) on [nix-community/nixos-anywhere-examples](https://github.com/nix-community/nixos-anywhere-examples)
 - [Change see to set in wireguard scripts](https://github.com/notthebee/nix-config/pull/25) on [notthebee/nix-config](https://github.com/notthebee/nix-config)
+- [Remove context menu background transparency](https://github.com/Frost-Phoenix/nixos-config/pull/51) on [Frost-Phoenix/nixos-config](https://github.com/Frost-Phoenix/nixos-config)
 
 #### ⭐ Recent Stars
 
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [anufrievroman/waypaper](https://github.com/anufrievroman/waypaper) - GUI wallpaper manager for Wayland and Xorg Linux systems
 - [nwg-piotr/nwg-displays](https://github.com/nwg-piotr/nwg-displays) - Output management utility for sway and Hyprland.
 - [coldfix/udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 
 #### 📰 Recent Blog Posts
 
