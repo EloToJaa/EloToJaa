@@ -22,11 +22,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/148) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Disable nextcloud](https://github.com/EloToJaa/dotfiles/pull/144) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Update pkgs](https://github.com/EloToJaa/dotfiles/pull/84) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Fix/module options](https://github.com/EloToJaa/dotfiles/pull/68) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Refactor: Add module options](https://github.com/EloToJaa/dotfiles/pull/67) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [DELETE ME](https://github.com/nix-community/nixos-anywhere-examples/pull/18) on [nix-community/nixos-anywhere-examples](https://github.com/nix-community/nixos-anywhere-examples)
 
 #### ⭐ Recent Stars
 
