@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Łukasz an experienced software engineer. I like to explore different technologies and try out different tools. I am familiar with many programming languages. I like to participate in CTF competitions with my team StormChasers as well as in competetive programming competitions. I also love teaching other people programming and cybersecurity.
+I'm Łukasz. I'm a software engineer. I like to explore different technologies and try out different tools. I am familiar with many programming languages. I like to participate in CTF competitions with my team StormChasers as well as in competetive programming competitions. I also love teaching other people programming and cybersecurity.
 
 #### I use NixOS btw
 
@@ -30,11 +30,11 @@ I'm Łukasz an experienced software engineer. I like to explore different techno
 
 #### ⭐ Recent Stars
 
+- [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
 - [davis7dotsh/better-context](https://github.com/davis7dotsh/better-context) - A better way to get up to date context on libraries/technologies in your projects
 - [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration
 - [mamift/LinqToXsdCore](https://github.com/mamift/LinqToXsdCore) - LinqToXsd ported to .NET Core (targets .NET Standard 2 for generated code and .NET Core 3.1, .NET 5&#43; for the code generator CLI tool).
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
-- [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 
 #### 📰 Recent Blog Posts
 
