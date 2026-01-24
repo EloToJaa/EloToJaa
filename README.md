@@ -7,9 +7,9 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 #### 👷 Check out what I'm currently working on
 
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
-- [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
-- [EloToJaa/civetweb](https://github.com/EloToJaa/civetweb) - Example C Web API based on civetweb
 - [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
+- [EloToJaa/civetweb](https://github.com/EloToJaa/civetweb) - Example C Web API based on civetweb
+- [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 - [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms) - A library of all the algorithms I wrote in C&#43;&#43;
 
 #### 🌱 My latest projects
