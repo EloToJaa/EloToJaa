@@ -30,11 +30,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### ⭐ Recent Stars
 
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 - [vikramsoni2/NextExplorer](https://github.com/vikramsoni2/NextExplorer) - Web based File Explorer
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-- [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
 
 #### 📰 Recent Blog Posts
 
