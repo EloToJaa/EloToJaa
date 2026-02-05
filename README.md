@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/177) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Add clan](https://github.com/EloToJaa/dotfiles/pull/176) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/175) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/174) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [nixos/duosec: fix pam.enable](https://github.com/NixOS/nixpkgs/pull/486213) on [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-- [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/173) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
