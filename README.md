@@ -30,11 +30,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### ⭐ Recent Stars
 
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore &#43; Monterey &#43; Ventura &#43; Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+- [ngi-nix/OSX-KVM](https://github.com/ngi-nix/OSX-KVM) - 
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [Jellyfin2Samsung/Samsung-Jellyfin-Installer](https://github.com/Jellyfin2Samsung/Samsung-Jellyfin-Installer) - One-click install of Jellyfin on your Samsung TV — fully compatible with all Tizen versions!
-- [nix-community/impermanence](https://github.com/nix-community/impermanence) - Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]
-- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 
 #### 📰 Recent Blog Posts
 
