@@ -30,11 +30,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### ⭐ Recent Stars
 
+- [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore &#43; Monterey &#43; Ventura &#43; Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [ngi-nix/OSX-KVM](https://github.com/ngi-nix/OSX-KVM) - 
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
-- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 
 #### 📰 Recent Blog Posts
 
