@@ -30,11 +30,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### ⭐ Recent Stars
 
+- [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [luchina-gabriel/OSX-PROXMOX](https://github.com/luchina-gabriel/OSX-PROXMOX) - Voilà, install macOS on ANY Computer! This is really and magic easiest way! PVE 7.XX ~ 8.XX Support and macOS High Sierra ~ macOS Sequoia Support.
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore &#43; Monterey &#43; Ventura &#43; Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
-- [ngi-nix/OSX-KVM](https://github.com/ngi-nix/OSX-KVM) - 
 
 #### 📰 Recent Blog Posts
 
