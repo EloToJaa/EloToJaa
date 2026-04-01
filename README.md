@@ -34,7 +34,7 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 - [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell &amp; GO, optimized for niri, hyprland, sway, MangoWC, labwc, and MiracleWM.
 - [PixlOne/logiops](https://github.com/PixlOne/logiops) - An unofficial userspace driver for HID&#43;&#43; Logitech devices
 - [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
-- [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
+- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 
 #### 📰 Recent Blog Posts
 
