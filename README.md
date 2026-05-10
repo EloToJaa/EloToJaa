@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [vdirsyncer: add preDeletionHook support](https://github.com/EloToJaa/home-manager/pull/1) on [EloToJaa/home-manager](https://github.com/EloToJaa/home-manager)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/275) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/274) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/273) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/272) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/271) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
