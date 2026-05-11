@@ -22,19 +22,19 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/276) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [vdirsyncer: add preDeletionHook](https://github.com/nix-community/home-manager/pull/9290) on [nix-community/home-manager](https://github.com/nix-community/home-manager)
 - [vdirsyncer: add preDeletionHook support](https://github.com/EloToJaa/home-manager/pull/1) on [EloToJaa/home-manager](https://github.com/EloToJaa/home-manager)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/275) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/274) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/273) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
+- [nix-community/naersk](https://github.com/nix-community/naersk) - Build Rust projects in Nix - no configuration, no code generation, no IFD, sandbox friendly.
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
 - [marcelscruz/public-apis](https://github.com/marcelscruz/public-apis) - A collaborative list of public APIs for developers
 - [RightNow-AI/openfang](https://github.com/RightNow-AI/openfang) - Open-source Agent Operating System
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 
 #### 📰 Recent Blog Posts
 
