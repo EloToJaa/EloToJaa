@@ -7,18 +7,18 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 #### 👷 Check out what I'm currently working on
 
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
+- [EloToJaa/rustcli](https://github.com/EloToJaa/rustcli) - Example rust CLI
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [EloToJaa/civetweb](https://github.com/EloToJaa/civetweb) - Example C Web API based on civetweb
-- [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 
 #### 🌱 My latest projects
 
+- [EloToJaa/rustcli](https://github.com/EloToJaa/rustcli) - Example rust CLI
 - [EloToJaa/iotexpo](https://github.com/EloToJaa/iotexpo) - IoT Expo exporter
 - [EloToJaa/nvim-work](https://github.com/EloToJaa/nvim-work) - My neovim configuration for my work laptop
 - [EloToJaa/nvim-config](https://github.com/EloToJaa/nvim-config) - Neovim config
 - [EloToJaa/train-ticketing-machine](https://github.com/EloToJaa/train-ticketing-machine) - Train ticketing machine user interface
-- [EloToJaa/go-inertia](https://github.com/EloToJaa/go-inertia) - Template for Go HTTP server with Svelte 5 and Inertia 2
 
 #### 🔨 My recent Pull Requests
 
