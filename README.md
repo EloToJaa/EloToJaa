@@ -7,14 +7,14 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 #### 👷 Check out what I'm currently working on
 
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
-- [EloToJaa/todors](https://github.com/EloToJaa/todors) - Example rust CLI
+- [EloToJaa/todo.rs](https://github.com/EloToJaa/todo.rs) - Example rust CLI
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
 - [EloToJaa/Homelab](https://github.com/EloToJaa/Homelab) - Config files used to run all homelab services
 
 #### 🌱 My latest projects
 
-- [EloToJaa/todors](https://github.com/EloToJaa/todors) - Example rust CLI
+- [EloToJaa/todo.rs](https://github.com/EloToJaa/todo.rs) - Example rust CLI
 - [EloToJaa/iotexpo](https://github.com/EloToJaa/iotexpo) - IoT Expo exporter
 - [EloToJaa/nvim-work](https://github.com/EloToJaa/nvim-work) - My neovim configuration for my work laptop
 - [EloToJaa/nvim-config](https://github.com/EloToJaa/nvim-config) - Neovim config
@@ -22,8 +22,8 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
-- [feat(cli): add todoman-style CLI color output](https://github.com/EloToJaa/todors/pull/2) on [EloToJaa/todors](https://github.com/EloToJaa/todors)
-- [fix: default command and ICS round-trip behavior](https://github.com/EloToJaa/todors/pull/1) on [EloToJaa/todors](https://github.com/EloToJaa/todors)
+- [feat(cli): add todoman-style CLI color output](https://github.com/EloToJaa/todo.rs/pull/2) on [EloToJaa/todo.rs](https://github.com/EloToJaa/todo.rs)
+- [fix: default command and ICS round-trip behavior](https://github.com/EloToJaa/todo.rs/pull/1) on [EloToJaa/todo.rs](https://github.com/EloToJaa/todo.rs)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/277) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/276) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [vdirsyncer: add preDeletionHook](https://github.com/nix-community/home-manager/pull/9290) on [nix-community/home-manager](https://github.com/nix-community/home-manager)
