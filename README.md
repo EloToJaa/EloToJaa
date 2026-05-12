@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [feat(cli): add todoman-style CLI color output](https://github.com/EloToJaa/todors/pull/2) on [EloToJaa/todors](https://github.com/EloToJaa/todors)
+- [fix: default command and ICS round-trip behavior](https://github.com/EloToJaa/todors/pull/1) on [EloToJaa/todors](https://github.com/EloToJaa/todors)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/277) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/276) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [vdirsyncer: add preDeletionHook](https://github.com/nix-community/home-manager/pull/9290) on [nix-community/home-manager](https://github.com/nix-community/home-manager)
-- [vdirsyncer: add preDeletionHook support](https://github.com/EloToJaa/home-manager/pull/1) on [EloToJaa/home-manager](https://github.com/EloToJaa/home-manager)
-- [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/275) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
