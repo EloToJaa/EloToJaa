@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/279) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/278) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(cd): add GoReleaser release pipeline](https://github.com/EloToJaa/todo.rs/pull/3) on [EloToJaa/todo.rs](https://github.com/EloToJaa/todo.rs)
 - [feat(cli): add todoman-style CLI color output](https://github.com/EloToJaa/todo.rs/pull/2) on [EloToJaa/todo.rs](https://github.com/EloToJaa/todo.rs)
 - [fix: default command and ICS round-trip behavior](https://github.com/EloToJaa/todo.rs/pull/1) on [EloToJaa/todo.rs](https://github.com/EloToJaa/todo.rs)
-- [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/277) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
