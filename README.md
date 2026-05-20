@@ -32,7 +32,7 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 - [akiselev/ghidra-cli](https://github.com/akiselev/ghidra-cli) - Rust cli to run ghidra headless on files so that Claude Code and other agents can reverse engineer stuff
 - [lukasl-dev/pi.nix](https://github.com/lukasl-dev/pi.nix) - Nix flake for pi, a terminal coding agent.
-- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C&#43;&#43; Solutions of All 3928 LeetCode Problems (Weekly Update)
+- [kamyu104/LeetCode-Solutions](https://github.com/kamyu104/LeetCode-Solutions) - 🏋️ Python / Modern C&#43;&#43; Solutions of All 3935 LeetCode Problems (Weekly Update)
 - [rust-cli/config-rs](https://github.com/rust-cli/config-rs) - ⚙️ Layered configuration system for Rust applications (with strong support for 12-factor applications). 
 - [pimutils/todoman](https://github.com/pimutils/todoman) - ✅ Simple, standards-based, command line todo (aka: task) manager.
 
