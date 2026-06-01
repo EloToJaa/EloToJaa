@@ -10,7 +10,7 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 - [EloToJaa/Quizer](https://github.com/EloToJaa/Quizer) - API for the Quizer App
 - [EloToJaa/todo.rs](https://github.com/EloToJaa/todo.rs) - todo.rs is a Rust command-line todo manager focused on parity with todoman, backed by VTODO files and a local SQLite cache.
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
-- [EloToJaa/EDI](https://github.com/EloToJaa/EDI) - EDI POCO generator and EDI format parser
+- [EloToJaa/civetweb](https://github.com/EloToJaa/civetweb) - Example C Web API based on civetweb
 
 #### 🌱 My latest projects
 
