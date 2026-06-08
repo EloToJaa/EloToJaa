@@ -7,18 +7,18 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 #### 👷 Check out what I'm currently working on
 
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
-- [EloToJaa/Quizer](https://github.com/EloToJaa/Quizer) - API for the Quizer App
+- [EloToJaa/Quizer.Old](https://github.com/EloToJaa/Quizer.Old) - API for the Quizer App
+- [EloToJaa/Quizer](https://github.com/EloToJaa/Quizer) - An app for creating and solving quizzes
 - [EloToJaa/todo.rs](https://github.com/EloToJaa/todo.rs) - todo.rs is a Rust command-line todo manager focused on parity with todoman, backed by VTODO files and a local SQLite cache.
 - [EloToJaa/HotelTvRemote](https://github.com/EloToJaa/HotelTvRemote) - A .NET 10 Web API for remotely controlling hotel room TVs via a secure, real-time connection. Built with Clean Architecture, it enables guests to pair their devices with in-room TVs and send remote commands
-- [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 
 #### 🌱 My latest projects
 
+- [EloToJaa/Quizer](https://github.com/EloToJaa/Quizer) - An app for creating and solving quizzes
 - [EloToJaa/todo.rs](https://github.com/EloToJaa/todo.rs) - todo.rs is a Rust command-line todo manager focused on parity with todoman, backed by VTODO files and a local SQLite cache.
 - [EloToJaa/HotelTvRemote](https://github.com/EloToJaa/HotelTvRemote) - A .NET 10 Web API for remotely controlling hotel room TVs via a secure, real-time connection. Built with Clean Architecture, it enables guests to pair their devices with in-room TVs and send remote commands
 - [EloToJaa/iotexpo](https://github.com/EloToJaa/iotexpo) - IoT Expo exporter
 - [EloToJaa/nvim-work](https://github.com/EloToJaa/nvim-work) - My neovim configuration for my work laptop
-- [EloToJaa/nvim-config](https://github.com/EloToJaa/nvim-config) - Neovim config
 
 #### 🔨 My recent Pull Requests
 
