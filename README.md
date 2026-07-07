@@ -30,11 +30,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### ⭐ Recent Stars
 
+- [alexdevassy/Machine_Learning_CTF_Challenges](https://github.com/alexdevassy/Machine_Learning_CTF_Challenges) - Hack AI/ML applications — CTF challenges for model attacks, LLMs and AI Agent exploitation.
 - [wcampbell0x2a/heretek](https://github.com/wcampbell0x2a/heretek) - GDB TUI Dashboard for the understanding of vast knowledge
 - [jurplel/qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
 - [CraftWorksMC/Chora](https://github.com/CraftWorksMC/Chora) - Simple Navidrome / Subsonic Music Player
 - [HabiRabbu/DroppedNeedle](https://github.com/HabiRabbu/DroppedNeedle) - 
-- [rolldown/rolldown](https://github.com/rolldown/rolldown) - Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.
 
 #### 📰 Recent Blog Posts
 
