@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/338) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/337) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/336) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/335) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/334) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/333) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
