@@ -6,8 +6,8 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 👷 Check out what I'm currently working on
 
-- [EloToJaa/Quizer](https://github.com/EloToJaa/Quizer) - An app for creating and solving quizzes
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
+- [EloToJaa/Quizer](https://github.com/EloToJaa/Quizer) - An app for creating and solving quizzes
 - [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
 - [EloToJaa/cppcli](https://github.com/EloToJaa/cppcli) - An example c&#43;&#43; CLI app
 - [EloToJaa/Quizer.Old](https://github.com/EloToJaa/Quizer.Old) - API for the Quizer App
@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/377) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/376) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/375) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/374) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/373) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/372) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
