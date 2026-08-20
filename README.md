@@ -30,11 +30,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### ⭐ Recent Stars
 
+- [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot &amp; Measured Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [Tasshack/dreame-vacuum](https://github.com/Tasshack/dreame-vacuum) - Home Assistant integration for Dreame robot vacuums with map support
 - [chris-mc1/homeconnect_local_hass](https://github.com/chris-mc1/homeconnect_local_hass) - Home Connect integration for Home Assistant using direct communication over the local network
 - [alexdevassy/Machine_Learning_CTF_Challenges](https://github.com/alexdevassy/Machine_Learning_CTF_Challenges) - Hack AI/ML applications — CTF challenges for model attacks, LLMs and AI Agent exploitation.
 - [wcampbell0x2a/heretek](https://github.com/wcampbell0x2a/heretek) - GDB TUI Dashboard for the understanding of vast knowledge
-- [jurplel/qView](https://github.com/jurplel/qView) - Practical and minimal image viewer
 
 #### 📰 Recent Blog Posts
 
