@@ -6,10 +6,10 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/aoc](https://github.com/EloToJaa/aoc) - Advent of Code 2024
 - [EloToJaa/Quizer](https://github.com/EloToJaa/Quizer) - An app for creating and solving quizzes
-- [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
 - [EloToJaa/cppcli](https://github.com/EloToJaa/cppcli) - An example c&#43;&#43; CLI app
 
 #### 🌱 My latest projects
