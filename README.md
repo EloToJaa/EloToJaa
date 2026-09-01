@@ -6,19 +6,19 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/Viking](https://github.com/EloToJaa/Viking) - Use AI to select the best meals from Kuchnia Vikinga
 - [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/aoc](https://github.com/EloToJaa/aoc) - Advent of Code 2024
 - [EloToJaa/Quizer](https://github.com/EloToJaa/Quizer) - An app for creating and solving quizzes
-- [EloToJaa/cppcli](https://github.com/EloToJaa/cppcli) - An example c&#43;&#43; CLI app
 
 #### 🌱 My latest projects
 
+- [EloToJaa/Viking](https://github.com/EloToJaa/Viking) - Use AI to select the best meals from Kuchnia Vikinga
 - [EloToJaa/cppcli](https://github.com/EloToJaa/cppcli) - An example c&#43;&#43; CLI app
 - [EloToJaa/Quizer](https://github.com/EloToJaa/Quizer) - An app for creating and solving quizzes
 - [EloToJaa/todo.rs](https://github.com/EloToJaa/todo.rs) - todo.rs is a Rust command-line todo manager focused on parity with todoman, backed by VTODO files and a local SQLite cache.
 - [EloToJaa/HotelTvRemote](https://github.com/EloToJaa/HotelTvRemote) - A .NET 10 Web API for remotely controlling hotel room TVs via a secure, real-time connection. Built with Clean Architecture, it enables guests to pair their devices with in-room TVs and send remote commands
-- [EloToJaa/iotexpo](https://github.com/EloToJaa/iotexpo) - IoT Expo exporter
 
 #### 🔨 My recent Pull Requests
 
