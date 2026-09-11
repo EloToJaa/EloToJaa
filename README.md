@@ -6,8 +6,8 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 👷 Check out what I'm currently working on
 
-- [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/ri-agent](https://github.com/EloToJaa/ri-agent) - 
+- [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
 - [EloToJaa/Viking](https://github.com/EloToJaa/Viking) - Use AI to select the best meals from Kuchnia Vikinga
 - [EloToJaa/aoc](https://github.com/EloToJaa/aoc) - Advent of Code 2024
