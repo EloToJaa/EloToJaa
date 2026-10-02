@@ -30,11 +30,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### ⭐ Recent Stars
 
+- [Mic92/nixbot](https://github.com/Mic92/nixbot) - Standalone Nix CI service for NixOS
 - [nicholasbester/clickup-cli](https://github.com/nicholasbester/clickup-cli) - CLI for the ClickUp API, optimized for AI agents
 - [ryoppippi/tgrab](https://github.com/ryoppippi/tgrab) - A CLI tool that fetches text content from services that normally require a browser or login — YouTube transcripts, Twitter/X posts, and Bluesky posts.
 - [MTeaHead/niri-session-manager](https://github.com/MTeaHead/niri-session-manager) - Automatically save and restore windows in the Niri Wayland compositor, with additional configurable options. 
 - [MintyDoggo/miri](https://github.com/MintyDoggo/miri) - A niri extension adding optional tiling layouts such as Master Stack. Provides similar experience to hyprland or mangowm.
-- [Antiz96/oniri](https://github.com/Antiz96/oniri) - A tool that automatically maximizes the only window of a niri workspace (with optional tiling layout mode).
 
 #### 📰 Recent Blog Posts
 
