@@ -7,10 +7,10 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 #### 👷 Check out what I'm currently working on
 
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
+- [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [EloToJaa/ri-agent](https://github.com/EloToJaa/ri-agent) - 
 - [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
 - [EloToJaa/Viking](https://github.com/EloToJaa/Viking) - Use AI to select the best meals from Kuchnia Vikinga
-- [EloToJaa/aoc](https://github.com/EloToJaa/aoc) - Advent of Code 2024
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
-- [refactor(nixos): merge remaining module stack changes into main](https://github.com/EloToJaa/dotfiles/pull/441) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/440) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(hardware): select CPU vendor per machine](https://github.com/EloToJaa/dotfiles/pull/438) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(containers): remove unused Docker group membership](https://github.com/EloToJaa/dotfiles/pull/437) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [refactor(core): move nix-update to developer tooling](https://github.com/EloToJaa/dotfiles/pull/436) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(blog): implement codebase review improvements](https://github.com/EloToJaa/blog/pull/197) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
+- [feat(design): give the blog a cohesive notebook experience](https://github.com/EloToJaa/blog/pull/196) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
+- [fix(astro): resolve migration regressions and expand tests](https://github.com/EloToJaa/blog/pull/195) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
+- [Migrate blog UI to shadcn-svelte](https://github.com/EloToJaa/blog/pull/194) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
+- [docs(blog): improve Hack The Box writeups and remove placeholder](https://github.com/EloToJaa/blog/pull/193) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 
 #### ⭐ Recent Stars
 
@@ -39,7 +39,6 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 #### 📰 Recent Blog Posts
 
 - [Cyber Apocalypse 2024: Hacker Royale](https://elotoja.com/blog/cyber-apocalypse/)
-- [Testing headings](https://elotoja.com/blog/headings/)
 
 #### 📫 How to reach me:
   - Website   : <https://elotoja.com>
