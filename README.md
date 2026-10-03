@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
-- [feat(homelab): add CLIProxyAPI service](https://github.com/EloToJaa/dotfiles/pull/422) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [refactor(nixos): split system modules and add hardware selection](https://github.com/EloToJaa/dotfiles/pull/421) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/420) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/419) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(ci): add nixbot updates for packages and release inputs](https://github.com/EloToJaa/dotfiles/pull/418) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(hardware): select CPU vendor per machine](https://github.com/EloToJaa/dotfiles/pull/438) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(containers): remove unused Docker group membership](https://github.com/EloToJaa/dotfiles/pull/437) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [refactor(core): move nix-update to developer tooling](https://github.com/EloToJaa/dotfiles/pull/436) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(audio): remove obsolete PulseAudio Bluetooth configuration](https://github.com/EloToJaa/dotfiles/pull/435) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [refactor(hardware): remove driver assumptions from generic modules](https://github.com/EloToJaa/dotfiles/pull/434) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
