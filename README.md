@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [feat(homelab): add CLIProxyAPI service](https://github.com/EloToJaa/dotfiles/pull/422) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [refactor(nixos): split system modules and add hardware selection](https://github.com/EloToJaa/dotfiles/pull/421) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/420) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/419) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(ci): add nixbot updates for packages and release inputs](https://github.com/EloToJaa/dotfiles/pull/418) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/417) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/416) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
