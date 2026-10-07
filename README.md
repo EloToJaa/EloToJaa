@@ -6,11 +6,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 👷 Check out what I'm currently working on
 
+- [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms) - A library of all the algorithms I wrote in C&#43;&#43;
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [EloToJaa/ri-agent](https://github.com/EloToJaa/ri-agent) - 
 - [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
-- [EloToJaa/Viking](https://github.com/EloToJaa/Viking) - Use AI to select the best meals from Kuchnia Vikinga
 
 #### 🌱 My latest projects
 
@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [feat(algorithms): add Python implementations and documentation](https://github.com/EloToJaa/Algorithms/pull/1) on [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/445) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(machines): add worker and hbox Clan configurations](https://github.com/EloToJaa/dotfiles/pull/444) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/443) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [fix(blog): implement codebase review improvements](https://github.com/EloToJaa/blog/pull/197) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
-- [feat(design): give the blog a cohesive notebook experience](https://github.com/EloToJaa/blog/pull/196) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 
 #### ⭐ Recent Stars
 
