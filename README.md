@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [Add graph and number theory algorithm snippets](https://github.com/EloToJaa/Algorithms/pull/2) on [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms)
 - [feat(algorithms): add Python implementations and documentation](https://github.com/EloToJaa/Algorithms/pull/1) on [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/445) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(machines): add worker and hbox Clan configurations](https://github.com/EloToJaa/dotfiles/pull/444) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore: update flake.lock](https://github.com/EloToJaa/dotfiles/pull/443) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(blog): implement codebase review improvements](https://github.com/EloToJaa/blog/pull/197) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 
 #### ⭐ Recent Stars
 
