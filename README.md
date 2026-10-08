@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [feat(design): Glass Workspace blog concept](https://github.com/EloToJaa/blog/pull/202) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
+- [feat(design): Olive Reading Room blog concept](https://github.com/EloToJaa/blog/pull/201) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 - [feat(design): Lab Notebook blog concept](https://github.com/EloToJaa/blog/pull/200) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 - [feat(design): Orange Poster blog concept](https://github.com/EloToJaa/blog/pull/199) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 - [feat(design): Technical Atlas blog concept](https://github.com/EloToJaa/blog/pull/198) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
-- [Add graph and number theory algorithm snippets](https://github.com/EloToJaa/Algorithms/pull/2) on [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms)
-- [feat(algorithms): add Python implementations and documentation](https://github.com/EloToJaa/Algorithms/pull/1) on [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms)
 
 #### ⭐ Recent Stars
 
