@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [refactor(ci): publish lock updates without a local build gate](https://github.com/EloToJaa/dotfiles/pull/479) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(tapo-control): patch the pytapo pin by pattern and guard downgrades](https://github.com/EloToJaa/dotfiles/pull/478) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(pi-vim): update clipboard patches for the upstream resolver rewrite](https://github.com/EloToJaa/dotfiles/pull/477) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [refactor(pkgs): extract pinned plugins into their own packages](https://github.com/EloToJaa/dotfiles/pull/476) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(design): Glass Workspace blog concept](https://github.com/EloToJaa/blog/pull/202) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
-- [feat(design): Olive Reading Room blog concept](https://github.com/EloToJaa/blog/pull/201) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
-- [feat(design): Lab Notebook blog concept](https://github.com/EloToJaa/blog/pull/200) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
-- [feat(design): Orange Poster blog concept](https://github.com/EloToJaa/blog/pull/199) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
-- [feat(design): Technical Atlas blog concept](https://github.com/EloToJaa/blog/pull/198) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 
 #### ⭐ Recent Stars
 
