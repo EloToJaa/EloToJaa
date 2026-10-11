@@ -31,7 +31,7 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 #### ⭐ Recent Stars
 
 - [schembriaiden/helium-browser-nix-flake](https://github.com/schembriaiden/helium-browser-nix-flake) - Nix Flake for Helium Browser
-- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
+- [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 - [Mic92/nixbot](https://github.com/Mic92/nixbot) - Standalone Nix CI service for NixOS
 - [nicholasbester/clickup-cli](https://github.com/nicholasbester/clickup-cli) - CLI for the ClickUp API, optimized for AI agents
 - [ryoppippi/tgrab](https://github.com/ryoppippi/tgrab) - A CLI tool that fetches text content from services that normally require a browser or login — YouTube transcripts, Twitter/X posts, and Bluesky posts.
