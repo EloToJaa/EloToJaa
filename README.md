@@ -22,19 +22,19 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [feat(helium): add helium browser module replacing chromium](https://github.com/EloToJaa/dotfiles/pull/481) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [refactor(ci): publish lock updates without a local build gate](https://github.com/EloToJaa/dotfiles/pull/479) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [fix(tapo-control): patch the pytapo pin by pattern and guard downgrades](https://github.com/EloToJaa/dotfiles/pull/478) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [fix(pi-vim): update clipboard patches for the upstream resolver rewrite](https://github.com/EloToJaa/dotfiles/pull/477) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [refactor(pkgs): extract pinned plugins into their own packages](https://github.com/EloToJaa/dotfiles/pull/476) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(design): Glass Workspace blog concept](https://github.com/EloToJaa/blog/pull/202) on [EloToJaa/blog](https://github.com/EloToJaa/blog)
 
 #### ⭐ Recent Stars
 
+- [schembriaiden/helium-browser-nix-flake](https://github.com/schembriaiden/helium-browser-nix-flake) - Nix Flake for Helium Browser
 - [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 - [Mic92/nixbot](https://github.com/Mic92/nixbot) - Standalone Nix CI service for NixOS
 - [nicholasbester/clickup-cli](https://github.com/nicholasbester/clickup-cli) - CLI for the ClickUp API, optimized for AI agents
 - [ryoppippi/tgrab](https://github.com/ryoppippi/tgrab) - A CLI tool that fetches text content from services that normally require a browser or login — YouTube transcripts, Twitter/X posts, and Bluesky posts.
-- [MTeaHead/niri-session-manager](https://github.com/MTeaHead/niri-session-manager) - Automatically save and restore windows in the Niri Wayland compositor, with additional configurable options. 
 
 #### 📰 Recent Blog Posts
 
