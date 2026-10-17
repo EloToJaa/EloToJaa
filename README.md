@@ -6,8 +6,8 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 👷 Check out what I'm currently working on
 
-- [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
+- [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
 - [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms) - A library of all the algorithms I wrote in C&#43;&#43;
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 - [EloToJaa/ri-agent](https://github.com/EloToJaa/ri-agent) - 
@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [feat(homelab): add plex service](https://github.com/EloToJaa/dotfiles/pull/524) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [t3code: rename app to T3 Code (Beta)](https://github.com/numtide/llm-agents.nix/pull/10927) on [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix)
 - [feat(helium): add helium browser module replacing chromium](https://github.com/EloToJaa/dotfiles/pull/481) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [refactor(ci): publish lock updates without a local build gate](https://github.com/EloToJaa/dotfiles/pull/479) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [fix(tapo-control): patch the pytapo pin by pattern and guard downgrades](https://github.com/EloToJaa/dotfiles/pull/478) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(pi-vim): update clipboard patches for the upstream resolver rewrite](https://github.com/EloToJaa/dotfiles/pull/477) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
