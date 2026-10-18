@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [fix(authelia): drop stale pnpm deps hash override](https://github.com/EloToJaa/dotfiles/pull/528) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(homelab): add plex service](https://github.com/EloToJaa/dotfiles/pull/524) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [t3code: rename app to T3 Code (Beta)](https://github.com/numtide/llm-agents.nix/pull/10927) on [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix)
 - [feat(helium): add helium browser module replacing chromium](https://github.com/EloToJaa/dotfiles/pull/481) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [refactor(ci): publish lock updates without a local build gate](https://github.com/EloToJaa/dotfiles/pull/479) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(tapo-control): patch the pytapo pin by pattern and guard downgrades](https://github.com/EloToJaa/dotfiles/pull/478) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
