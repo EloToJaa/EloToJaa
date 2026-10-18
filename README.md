@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [Move Nix binary cache to cache.worker.elotoja.com](https://github.com/EloToJaa/dotfiles/pull/532) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [Add direnv flake integration](https://github.com/EloToJaa/dotfiles/pull/531) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(zed): sync local config, add terraform/just, use oxc tooling](https://github.com/EloToJaa/dotfiles/pull/530) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [fix(initrd): enable SSH disk unlock on desktop, worker and server](https://github.com/EloToJaa/dotfiles/pull/529) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [fix(authelia): drop stale pnpm deps hash override](https://github.com/EloToJaa/dotfiles/pull/528) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(homelab): add plex service](https://github.com/EloToJaa/dotfiles/pull/524) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [t3code: rename app to T3 Code (Beta)](https://github.com/numtide/llm-agents.nix/pull/10927) on [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix)
 
 #### ⭐ Recent Stars
 
