@@ -30,11 +30,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### ⭐ Recent Stars
 
+- [bwoah-md/dotfiles](https://github.com/bwoah-md/dotfiles) - dotfiles setup for icy@nix
 - [olafkfreund/nix-craftapps](https://github.com/olafkfreund/nix-craftapps) - Nix flake for the ArtCraft Crafting Apps (storytold): 12 pure-Rust creative apps, with NixOS and Home Manager modules
 - [schembriaiden/helium-browser-nix-flake](https://github.com/schembriaiden/helium-browser-nix-flake) - Nix Flake for Helium Browser
 - [storytold/photocraft](https://github.com/storytold/photocraft) - PhotoCraft: An open-source, photo editor written by scratch in pure Rust
 - [Mic92/nixbot](https://github.com/Mic92/nixbot) - Standalone Nix CI service for NixOS
-- [nicholasbester/clickup-cli](https://github.com/nicholasbester/clickup-cli) - CLI for the ClickUp API, optimized for AI agents
 
 #### 📰 Recent Blog Posts
 
