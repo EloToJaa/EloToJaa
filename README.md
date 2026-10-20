@@ -6,8 +6,8 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 👷 Check out what I'm currently working on
 
-- [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
+- [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms) - A library of all the algorithms I wrote in C&#43;&#43;
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [feat(dev): add jujutsu module](https://github.com/EloToJaa/dotfiles/pull/538) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(stalwart): add stalwart mail server on hbox](https://github.com/EloToJaa/dotfiles/pull/537) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(forgejo): add forgejo homelab module and enable it on hbox](https://github.com/EloToJaa/dotfiles/pull/536) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Move Nix binary cache to cache.worker.elotoja.com](https://github.com/EloToJaa/dotfiles/pull/532) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Add direnv flake integration](https://github.com/EloToJaa/dotfiles/pull/531) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(zed): sync local config, add terraform/just, use oxc tooling](https://github.com/EloToJaa/dotfiles/pull/530) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(initrd): enable SSH disk unlock on desktop, worker and server](https://github.com/EloToJaa/dotfiles/pull/529) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(authelia): drop stale pnpm deps hash override](https://github.com/EloToJaa/dotfiles/pull/528) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
