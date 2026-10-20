@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [ci(nixbot): build worker and hbox checks](https://github.com/EloToJaa/dotfiles/pull/541) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(dev): add jujutsu module](https://github.com/EloToJaa/dotfiles/pull/538) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(stalwart): add stalwart mail server on hbox](https://github.com/EloToJaa/dotfiles/pull/537) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(forgejo): add forgejo homelab module and enable it on hbox](https://github.com/EloToJaa/dotfiles/pull/536) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Move Nix binary cache to cache.worker.elotoja.com](https://github.com/EloToJaa/dotfiles/pull/532) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [Add direnv flake integration](https://github.com/EloToJaa/dotfiles/pull/531) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
