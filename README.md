@@ -6,10 +6,10 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 👷 Check out what I'm currently working on
 
-- [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
-- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
+- [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
 - [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms) - A library of all the algorithms I wrote in C&#43;&#43;
+- [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 
 #### 🌱 My latest projects
@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [refactor(binsearch): switch to l &lt; r template with l, r naming](https://github.com/EloToJaa/Algorithms/pull/4) on [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms)
+- [feat(algorithms): add Prim and LeetCode problems to READMEs](https://github.com/EloToJaa/Algorithms/pull/3) on [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms)
+- [fix(machines): disable serial console on hosts without a serial port](https://github.com/EloToJaa/dotfiles/pull/544) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(bootloader): limit limine to 4 generations](https://github.com/EloToJaa/dotfiles/pull/543) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [ci(nixbot): build worker and hbox checks](https://github.com/EloToJaa/dotfiles/pull/541) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(dev): add jujutsu module](https://github.com/EloToJaa/dotfiles/pull/538) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(stalwart): add stalwart mail server on hbox](https://github.com/EloToJaa/dotfiles/pull/537) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(forgejo): add forgejo homelab module and enable it on hbox](https://github.com/EloToJaa/dotfiles/pull/536) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [Move Nix binary cache to cache.worker.elotoja.com](https://github.com/EloToJaa/dotfiles/pull/532) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
