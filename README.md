@@ -7,8 +7,8 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 #### 👷 Check out what I'm currently working on
 
 - [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
-- [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms) - A library of all the algorithms I wrote in C&#43;&#43;
+- [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [numtide/llm-agents.nix](https://github.com/numtide/llm-agents.nix) - Nix packages for AI coding agents and development tools. Automatically updated daily.
 - [EloToJaa/blog](https://github.com/EloToJaa/blog) - Code for my blog. Created using Astro and Svelte.
 
@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [feat(algorithms): add knapsack variants, LCS, palindrome DPs, heap sort, and BST](https://github.com/EloToJaa/Algorithms/pull/6) on [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms)
 - [feat(desktop): add enable options for all artcraft apps](https://github.com/EloToJaa/dotfiles/pull/546) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(python): add type hints to all algorithm implementations](https://github.com/EloToJaa/Algorithms/pull/5) on [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms)
 - [feat(desktop): add artcraft module with photocraft and wordcraft](https://github.com/EloToJaa/dotfiles/pull/545) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [refactor(binsearch): switch to l &lt; r template with l, r naming](https://github.com/EloToJaa/Algorithms/pull/4) on [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms)
-- [feat(algorithms): add Prim and LeetCode problems to READMEs](https://github.com/EloToJaa/Algorithms/pull/3) on [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms)
 
 #### ⭐ Recent Stars
 
