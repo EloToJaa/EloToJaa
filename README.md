@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [Fix Hermes update tag selection in nixbot](https://github.com/EloToJaa/dotfiles/pull/567) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(nixbot): title update PRs with old and new versions](https://github.com/EloToJaa/dotfiles/pull/566) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(nixbot): delete update branches after their PR merges](https://github.com/EloToJaa/dotfiles/pull/556) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [chore(flake): update the llm-agents input](https://github.com/EloToJaa/dotfiles/pull/554) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(ci): auto-merge nixbot update PRs once checks pass](https://github.com/EloToJaa/dotfiles/pull/553) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(nixbot): raise build max silent time to one hour](https://github.com/EloToJaa/dotfiles/pull/552) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(algorithms): add LeetCode pattern snippets](https://github.com/EloToJaa/Algorithms/pull/7) on [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms)
-- [feat(algorithms): add knapsack variants, LCS, palindrome DPs, heap sort, and BST](https://github.com/EloToJaa/Algorithms/pull/6) on [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms)
-- [feat(desktop): add enable options for all artcraft apps](https://github.com/EloToJaa/dotfiles/pull/546) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
