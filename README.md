@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [feat(desktop): add omnissa-horizon module](https://github.com/EloToJaa/dotfiles/pull/579) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(dev): add google-cloud-sdk](https://github.com/EloToJaa/dotfiles/pull/576) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [refactor: rename yamtrack-src input to yamtrack](https://github.com/EloToJaa/dotfiles/pull/575) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Fix Hermes update tag selection in nixbot](https://github.com/EloToJaa/dotfiles/pull/567) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(nixbot): title update PRs with old and new versions](https://github.com/EloToJaa/dotfiles/pull/566) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(nixbot): delete update branches after their PR merges](https://github.com/EloToJaa/dotfiles/pull/556) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
