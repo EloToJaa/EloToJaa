@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
-- [feat(desktop): add omnissa-horizon module](https://github.com/EloToJaa/dotfiles/pull/579) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(dev): add google-cloud-sdk](https://github.com/EloToJaa/dotfiles/pull/576) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [refactor: rename yamtrack-src input to yamtrack](https://github.com/EloToJaa/dotfiles/pull/575) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [Fix Hermes update tag selection in nixbot](https://github.com/EloToJaa/dotfiles/pull/567) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(nixbot): title update PRs with old and new versions](https://github.com/EloToJaa/dotfiles/pull/566) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [ci: drop format-check workflow in favour of nixbot treefmt check](https://github.com/EloToJaa/dotfiles/pull/597) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [docs: update AGENTS.md to match current repo](https://github.com/EloToJaa/dotfiles/pull/596) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(dms): manage settings and catppuccin theme through nix](https://github.com/EloToJaa/dotfiles/pull/595) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(noctalia): add noctalia-shell module as dms replacement](https://github.com/EloToJaa/dotfiles/pull/594) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(worker): expose t3code on t3.worker.elotoja.com](https://github.com/EloToJaa/dotfiles/pull/593) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
