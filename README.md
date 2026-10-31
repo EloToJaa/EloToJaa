@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [feat(umbriel): add umbriel compositor module as niri alternative](https://github.com/EloToJaa/dotfiles/pull/622) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [refactor(secrets): remove sops-nix secrets file and wiring](https://github.com/EloToJaa/dotfiles/pull/619) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [refactor(notifications): move secrets to clan vars](https://github.com/EloToJaa/dotfiles/pull/618) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [refactor(leetcode): move secrets to clan vars](https://github.com/EloToJaa/dotfiles/pull/617) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [refactor(aoc): move secrets to clan vars](https://github.com/EloToJaa/dotfiles/pull/616) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [refactor(hermes): move secrets to clan vars](https://github.com/EloToJaa/dotfiles/pull/615) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
