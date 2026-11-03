@@ -14,7 +14,7 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🌱 My latest projects
 
-- [EloToJaa/ri-agent](https://github.com/EloToJaa/ri-agent) - 
+- [EloToJaa/ri-agent](https://github.com/EloToJaa/ri-agent) - Basic implementation of an AI agent harness that currently supports CLI and TUI.
 - [EloToJaa/Viking](https://github.com/EloToJaa/Viking) - Use AI to select the best meals from Kuchnia Vikinga
 - [EloToJaa/cppcli](https://github.com/EloToJaa/cppcli) - An example c&#43;&#43; CLI app
 - [EloToJaa/Quizer](https://github.com/EloToJaa/Quizer) - An app for creating and solving quizzes
