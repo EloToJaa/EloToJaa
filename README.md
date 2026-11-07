@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [fix(nvim): disable buffer word completion source in blink-cmp](https://github.com/EloToJaa/dotfiles/pull/669) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore(leetcode): re-roll secrets](https://github.com/EloToJaa/dotfiles/pull/645) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [fix(desktop): use limine efi protocol for Windows entry](https://github.com/EloToJaa/dotfiles/pull/634) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [fix(ci): rerun auto-merge when labels are added](https://github.com/EloToJaa/dotfiles/pull/633) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(umbriel): add umbriel compositor module as niri alternative](https://github.com/EloToJaa/dotfiles/pull/622) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [refactor(secrets): remove sops-nix secrets file and wiring](https://github.com/EloToJaa/dotfiles/pull/619) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
