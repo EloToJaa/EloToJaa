@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
-- [fix(nixbot): raise build max silent time to three hours](https://github.com/EloToJaa/dotfiles/pull/677) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(nginx): add explicit default vhost returning 404](https://github.com/EloToJaa/dotfiles/pull/676) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(nvim): disable buffer word completion source in blink-cmp](https://github.com/EloToJaa/dotfiles/pull/669) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [chore(leetcode): re-roll secrets](https://github.com/EloToJaa/dotfiles/pull/645) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(desktop): use limine efi protocol for Windows entry](https://github.com/EloToJaa/dotfiles/pull/634) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(t3-code): route t3code:// OAuth callbacks to the desktop app](https://github.com/EloToJaa/dotfiles/pull/696) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(overlays): use nixpkgs cloudflared for T3 Connect](https://github.com/EloToJaa/dotfiles/pull/695) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(overlays): enable T3 Connect in t3code with nixpkgs cloudflared and no bundled CLIs](https://github.com/EloToJaa/dotfiles/pull/694) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(clan): deploy as root over key-only SSH](https://github.com/EloToJaa/dotfiles/pull/693) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(clan): point thinker deploy target at its own tailscale IP](https://github.com/EloToJaa/dotfiles/pull/692) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
