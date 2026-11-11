@@ -7,8 +7,8 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 #### 👷 Check out what I'm currently working on
 
 - [EloToJaa/noctalia-monitors](https://github.com/EloToJaa/noctalia-monitors) - Noctalia plugin to manage monitors (position, resolution, refresh rate, scale) on Umbriel
-- [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
+- [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/neetcode-submissions](https://github.com/EloToJaa/neetcode-submissions) - My NeetCode.io problem submissions
 - [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms) - A library of all the algorithms I wrote in C&#43;&#43;
 
@@ -22,15 +22,15 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
-- [fix(umbriel): uppercase letter keybinds so they override the packaged defaults](https://github.com/EloToJaa/dotfiles/pull/701) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [refactor(desktop): remove Hyprland](https://github.com/EloToJaa/dotfiles/pull/700) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(desktop): enable umbriel alongside niri and make it the default session](https://github.com/EloToJaa/dotfiles/pull/699) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [refactor(desktop): remove DMS and Vicinae in favour of Noctalia](https://github.com/EloToJaa/dotfiles/pull/698) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(desktop): temporarily switch from DMS to Noctalia shell and greeter](https://github.com/EloToJaa/dotfiles/pull/697) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [Maximize apps to edges on startup in umbriel](https://github.com/EloToJaa/dotfiles/pull/718) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(vesktop): use Vesktop&#39;s own Vencord instead of the stale nixpkgs one](https://github.com/EloToJaa/dotfiles/pull/717) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(umbriel): use numeric workspace names and add four workspaces](https://github.com/EloToJaa/dotfiles/pull/716) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(vesktop): make settings mutable so Vencord can write them](https://github.com/EloToJaa/dotfiles/pull/715) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(umbriel): create and include the saved monitors file](https://github.com/EloToJaa/dotfiles/pull/714) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
-- [rootscripts/riff](https://github.com/rootscripts/riff) - Riff is the best music player with YouTube Music &amp; SoundCloud library and WebGL shader visuals.
+- [rootscripts/riff](https://github.com/rootscripts/riff) - Riff is the best, free music player with YouTube Music &amp; SoundCloud library and WebGL shader visuals. No backend or telemetry. No paid tiers.
 - [Mic92/auto-merge](https://github.com/Mic92/auto-merge) - A GitHub action that will automatically approve and merge pull requests based on configurable rules.
 - [bwoah-md/dotfiles](https://github.com/bwoah-md/dotfiles) - dotfiles setup for icy@nix
 - [olafkfreund/nix-craftapps](https://github.com/olafkfreund/nix-craftapps) - Nix flake for the ArtCraft Crafting Apps (storytold): 12 pure-Rust creative apps, with NixOS and Home Manager modules
