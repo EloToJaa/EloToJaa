@@ -6,9 +6,9 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 👷 Check out what I'm currently working on
 
-- [EloToJaa/noctalia-monitors](https://github.com/EloToJaa/noctalia-monitors) - Noctalia plugin to manage monitors (position, resolution, refresh rate, scale) on Umbriel
-- [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
+- [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
+- [EloToJaa/noctalia-monitors](https://github.com/EloToJaa/noctalia-monitors) - Noctalia plugin to manage monitors (position, resolution, refresh rate, scale) on Umbriel
 - [EloToJaa/neetcode-submissions](https://github.com/EloToJaa/neetcode-submissions) - My NeetCode.io problem submissions
 - [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms) - A library of all the algorithms I wrote in C&#43;&#43;
 
@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [feat(ai): add grok-bot module](https://github.com/EloToJaa/dotfiles/pull/719) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Maximize apps to edges on startup in umbriel](https://github.com/EloToJaa/dotfiles/pull/718) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [fix(vesktop): use Vesktop&#39;s own Vencord instead of the stale nixpkgs one](https://github.com/EloToJaa/dotfiles/pull/717) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(umbriel): use numeric workspace names and add four workspaces](https://github.com/EloToJaa/dotfiles/pull/716) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [fix(vesktop): make settings mutable so Vencord can write them](https://github.com/EloToJaa/dotfiles/pull/715) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(umbriel): create and include the saved monitors file](https://github.com/EloToJaa/dotfiles/pull/714) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
