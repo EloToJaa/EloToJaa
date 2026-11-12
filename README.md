@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [feat(wsl): add wsl machine](https://github.com/EloToJaa/dotfiles/pull/724) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(ai): add grok-bot module](https://github.com/EloToJaa/dotfiles/pull/719) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Maximize apps to edges on startup in umbriel](https://github.com/EloToJaa/dotfiles/pull/718) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [fix(vesktop): use Vesktop&#39;s own Vencord instead of the stale nixpkgs one](https://github.com/EloToJaa/dotfiles/pull/717) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(umbriel): use numeric workspace names and add four workspaces](https://github.com/EloToJaa/dotfiles/pull/716) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(vesktop): make settings mutable so Vencord can write them](https://github.com/EloToJaa/dotfiles/pull/715) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
