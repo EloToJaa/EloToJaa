@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [chore(leetcode): remove leetcode module and secrets](https://github.com/EloToJaa/dotfiles/pull/731) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [chore(nix): move leetcode-cli and its config to devshell](https://github.com/EloToJaa/leetcode/pull/1) on [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode)
+- [chore(wsl): use tailscale IP as deploy target](https://github.com/EloToJaa/dotfiles/pull/730) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(wsl): let systemd-resolved manage resolv.conf and drop WSL prompt label](https://github.com/EloToJaa/dotfiles/pull/729) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [fix(umbriel): maximize apps to edges on startup](https://github.com/EloToJaa/dotfiles/pull/725) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(wsl): add wsl machine](https://github.com/EloToJaa/dotfiles/pull/724) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(ai): add grok-bot module](https://github.com/EloToJaa/dotfiles/pull/719) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [Maximize apps to edges on startup in umbriel](https://github.com/EloToJaa/dotfiles/pull/718) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(vesktop): use Vesktop&#39;s own Vencord instead of the stale nixpkgs one](https://github.com/EloToJaa/dotfiles/pull/717) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
