@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
-- [Package Fisch&#39;s Delfin fork locally to fix Delfin](https://github.com/EloToJaa/dotfiles/pull/734) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(desktop): add chromium module](https://github.com/EloToJaa/dotfiles/pull/733) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(umbriel): autostart T3 Code maximized on workspace 4](https://github.com/EloToJaa/dotfiles/pull/732) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [chore(leetcode): remove leetcode module and secrets](https://github.com/EloToJaa/dotfiles/pull/731) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [chore(nix): move leetcode-cli and its config to devshell](https://github.com/EloToJaa/leetcode/pull/1) on [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode)
+- [fix(zigbee2mqtt): allow reading homeassistant/# so Z2M sees HA birth](https://github.com/EloToJaa/dotfiles/pull/745) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(home-assistant): expose MCP server over Tailscale Serve](https://github.com/EloToJaa/dotfiles/pull/744) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(claude): read ANTHROPIC_AUTH_TOKEN from clan vars](https://github.com/EloToJaa/dotfiles/pull/743) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(umbriel): autostart Grok Bot maximized on workspace 4](https://github.com/EloToJaa/dotfiles/pull/742) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [refactor(ai): remove open-code-review](https://github.com/EloToJaa/dotfiles/pull/741) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
