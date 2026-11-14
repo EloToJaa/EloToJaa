@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
-- [fix(zigbee2mqtt): allow reading homeassistant/# so Z2M sees HA birth](https://github.com/EloToJaa/dotfiles/pull/745) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(home-assistant): expose MCP server over Tailscale Serve](https://github.com/EloToJaa/dotfiles/pull/744) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(claude): read ANTHROPIC_AUTH_TOKEN from clan vars](https://github.com/EloToJaa/dotfiles/pull/743) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(umbriel): autostart Grok Bot maximized on workspace 4](https://github.com/EloToJaa/dotfiles/pull/742) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [refactor(ai): remove open-code-review](https://github.com/EloToJaa/dotfiles/pull/741) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(btop): pin to 1.4.7](https://github.com/EloToJaa/dotfiles/pull/752) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(umbriel): use default_floating_size_px for btop popup](https://github.com/EloToJaa/dotfiles/pull/751) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(noctalia): open btop popup on cpu and ram right click](https://github.com/EloToJaa/dotfiles/pull/750) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(umbriel): use sloppy focus so keybind focus sticks](https://github.com/EloToJaa/dotfiles/pull/749) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [Open crash diagnosis in T3 Code instead of Claude CLI](https://github.com/EloToJaa/dotfiles/pull/748) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
