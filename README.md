@@ -6,8 +6,8 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 👷 Check out what I'm currently working on
 
-- [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
+- [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
 - [EloToJaa/noctalia-monitors](https://github.com/EloToJaa/noctalia-monitors) - Noctalia plugin to manage monitors (position, resolution, refresh rate, scale) on Umbriel
 - [EloToJaa/neetcode-submissions](https://github.com/EloToJaa/neetcode-submissions) - My NeetCode.io problem submissions
 - [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms) - A library of all the algorithms I wrote in C&#43;&#43;
