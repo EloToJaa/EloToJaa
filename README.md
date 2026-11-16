@@ -6,8 +6,8 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 👷 Check out what I'm currently working on
 
-- [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
 - [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles) - My dotfiles
+- [EloToJaa/leetcode](https://github.com/EloToJaa/leetcode) - My solutions to leetcode problems
 - [EloToJaa/noctalia-monitors](https://github.com/EloToJaa/noctalia-monitors) - Noctalia plugin to manage monitors (position, resolution, refresh rate, scale) on Umbriel
 - [EloToJaa/neetcode-submissions](https://github.com/EloToJaa/neetcode-submissions) - My NeetCode.io problem submissions
 - [EloToJaa/Algorithms](https://github.com/EloToJaa/Algorithms) - A library of all the algorithms I wrote in C&#43;&#43;
@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [feat(grok): route through hub cli proxy](https://github.com/EloToJaa/dotfiles/pull/756) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [Remove unused desktop apps and CLIs](https://github.com/EloToJaa/dotfiles/pull/755) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(ai): add grok and cursor cli modules](https://github.com/EloToJaa/dotfiles/pull/754) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [fix(btop): pin to 1.4.7](https://github.com/EloToJaa/dotfiles/pull/752) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [fix(umbriel): use default_floating_size_px for btop popup](https://github.com/EloToJaa/dotfiles/pull/751) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(noctalia): open btop popup on cpu and ram right click](https://github.com/EloToJaa/dotfiles/pull/750) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(umbriel): use sloppy focus so keybind focus sticks](https://github.com/EloToJaa/dotfiles/pull/749) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [Open crash diagnosis in T3 Code instead of Claude CLI](https://github.com/EloToJaa/dotfiles/pull/748) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
