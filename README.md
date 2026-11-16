@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [Rename Limine Windows boot entry to Windows 11](https://github.com/EloToJaa/dotfiles/pull/758) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(grok): route through hub cli proxy](https://github.com/EloToJaa/dotfiles/pull/756) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Remove unused desktop apps and CLIs](https://github.com/EloToJaa/dotfiles/pull/755) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(ai): add grok and cursor cli modules](https://github.com/EloToJaa/dotfiles/pull/754) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [fix(btop): pin to 1.4.7](https://github.com/EloToJaa/dotfiles/pull/752) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(umbriel): use default_floating_size_px for btop popup](https://github.com/EloToJaa/dotfiles/pull/751) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
