@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
-- [feat(t3-code): inject cliproxy hub management key from clan vars](https://github.com/EloToJaa/dotfiles/pull/765) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [Disable Umbriel top-left hot corner](https://github.com/EloToJaa/dotfiles/pull/763) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [refactor(t3-code): manage settings and keybindings in dotfiles](https://github.com/EloToJaa/dotfiles/pull/760) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [Fix Grok auth through the hub CLI proxy and set default model](https://github.com/EloToJaa/dotfiles/pull/759) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [Rename Limine Windows boot entry to Windows 11](https://github.com/EloToJaa/dotfiles/pull/758) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(home): add rex terminal multiplexer module](https://github.com/EloToJaa/dotfiles/pull/772) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(ai): add ai-memory shared agent memory server and clients](https://github.com/EloToJaa/dotfiles/pull/771) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [chore(overlays): remove obsolete bug-fix overlays](https://github.com/EloToJaa/dotfiles/pull/770) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(ai): add tstack skills](https://github.com/EloToJaa/dotfiles/pull/769) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [chore(lazygit): remove aichat](https://github.com/EloToJaa/dotfiles/pull/768) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
