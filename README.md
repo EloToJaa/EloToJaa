@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [feat(t3-code): inject cliproxy hub management key from clan vars](https://github.com/EloToJaa/dotfiles/pull/765) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Disable Umbriel top-left hot corner](https://github.com/EloToJaa/dotfiles/pull/763) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [refactor(t3-code): manage settings and keybindings in dotfiles](https://github.com/EloToJaa/dotfiles/pull/760) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Fix Grok auth through the hub CLI proxy and set default model](https://github.com/EloToJaa/dotfiles/pull/759) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Rename Limine Windows boot entry to Windows 11](https://github.com/EloToJaa/dotfiles/pull/758) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(grok): route through hub cli proxy](https://github.com/EloToJaa/dotfiles/pull/756) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
