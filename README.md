@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [Add general comment guidelines to AGENTS.md](https://github.com/EloToJaa/dotfiles/pull/777) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(nh): use unstable systemd for nh activation](https://github.com/EloToJaa/dotfiles/pull/776) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(home): enable linger for rex server and silence linger warning](https://github.com/EloToJaa/dotfiles/pull/775) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(home): add rex-rune desktop client to desktop profile](https://github.com/EloToJaa/dotfiles/pull/774) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(home): add rex terminal multiplexer module](https://github.com/EloToJaa/dotfiles/pull/772) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(ai): add ai-memory shared agent memory server and clients](https://github.com/EloToJaa/dotfiles/pull/771) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [chore(overlays): remove obsolete bug-fix overlays](https://github.com/EloToJaa/dotfiles/pull/770) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(ai): add tstack skills](https://github.com/EloToJaa/dotfiles/pull/769) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [chore(lazygit): remove aichat](https://github.com/EloToJaa/dotfiles/pull/768) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
