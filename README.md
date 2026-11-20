@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [fix(ci): patch nix-update for lazy flake sources on Nix 2.35](https://github.com/EloToJaa/dotfiles/pull/781) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(energa-my-meter): 2.4.3 -&gt; 2.4.4](https://github.com/EloToJaa/dotfiles/pull/780) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Add general comment guidelines to AGENTS.md](https://github.com/EloToJaa/dotfiles/pull/777) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [fix(nh): use unstable systemd for nh activation](https://github.com/EloToJaa/dotfiles/pull/776) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [fix(home): enable linger for rex server and silence linger warning](https://github.com/EloToJaa/dotfiles/pull/775) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(home): add rex-rune desktop client to desktop profile](https://github.com/EloToJaa/dotfiles/pull/774) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(home): add rex terminal multiplexer module](https://github.com/EloToJaa/dotfiles/pull/772) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
