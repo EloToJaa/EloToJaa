@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
-- [fix(ci): patch nix-update for lazy flake sources on Nix 2.35](https://github.com/EloToJaa/dotfiles/pull/781) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(energa-my-meter): 2.4.3 -&gt; 2.4.4](https://github.com/EloToJaa/dotfiles/pull/780) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [Add general comment guidelines to AGENTS.md](https://github.com/EloToJaa/dotfiles/pull/777) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(nh): use unstable systemd for nh activation](https://github.com/EloToJaa/dotfiles/pull/776) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(home): enable linger for rex server and silence linger warning](https://github.com/EloToJaa/dotfiles/pull/775) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(worker): stop mounting the TrueNAS NFS shares](https://github.com/EloToJaa/dotfiles/pull/792) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(worker): mask serial-getty@ttyS0](https://github.com/EloToJaa/dotfiles/pull/791) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(paperless): allow 127.0.0.1 host for the local health check](https://github.com/EloToJaa/dotfiles/pull/790) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(homelab): refresh PostgreSQL collation versions after upgrades](https://github.com/EloToJaa/dotfiles/pull/789) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(immich): raise nginx body size limit for large uploads](https://github.com/EloToJaa/dotfiles/pull/788) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
