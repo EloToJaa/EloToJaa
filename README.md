@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [feat(homelab): add Tempo tracing with per-vhost nginx traces](https://github.com/EloToJaa/dotfiles/pull/815) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(qui): rename domains and use PostgreSQL](https://github.com/EloToJaa/dotfiles/pull/814) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(homelab): rename qBittorrent and qui default domains](https://github.com/EloToJaa/dotfiles/pull/813) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Autostart Rex Rune on umbriel workspace 3, maximized](https://github.com/EloToJaa/dotfiles/pull/812) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(qui): add qui as qBittorrent web UI, replace VueTorrent](https://github.com/EloToJaa/dotfiles/pull/811) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(sonarr): switch update branch to develop](https://github.com/EloToJaa/dotfiles/pull/810) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(flaresolverr): provide fontconfig file for headless Chromium](https://github.com/EloToJaa/dotfiles/pull/809) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(prometheus): quiet exportarr, hide Grafana/Loki metrics, fix qBittorrent systemd block](https://github.com/EloToJaa/dotfiles/pull/808) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
