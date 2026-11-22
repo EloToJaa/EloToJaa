@@ -22,19 +22,19 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
-- [feat(rex): add smart-splits focus, resize, and the missing tmux shortcuts](https://github.com/EloToJaa/dotfiles/pull/796) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(gatus): monitor homelab services with Gatus and disable Uptime Kuma](https://github.com/EloToJaa/dotfiles/pull/795) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [refactor(flaresolverr): use the nixpkgs module instead of the podman container](https://github.com/EloToJaa/dotfiles/pull/794) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(rex): manage the Rex Rune settings and tmux keybinds](https://github.com/EloToJaa/dotfiles/pull/793) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(worker): stop mounting the TrueNAS NFS shares](https://github.com/EloToJaa/dotfiles/pull/792) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(prometheus): add exporters and a shared scrape target mechanism](https://github.com/EloToJaa/dotfiles/pull/803) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(grafana): provision dashboards from the repo](https://github.com/EloToJaa/dotfiles/pull/802) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [Remove Uptime Kuma, unused homelab services and the hermes-agent input](https://github.com/EloToJaa/dotfiles/pull/801) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(gatus): push service outage alerts to ntfy](https://github.com/EloToJaa/dotfiles/pull/800) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(blocky): set the blocky Postgres password by hand instead of with a service](https://github.com/EloToJaa/dotfiles/pull/799) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
+- [n8n-io/nod](https://github.com/n8n-io/nod) - Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.
 - [rootscripts/riff](https://github.com/rootscripts/riff) - Riff is the best, free music player with YouTube Music &amp; SoundCloud library and WebGL shader visuals. No backend or telemetry. No paid tiers.
 - [Mic92/auto-merge](https://github.com/Mic92/auto-merge) - A GitHub action that will automatically approve and merge pull requests based on configurable rules.
 - [bwoah-md/dotfiles](https://github.com/bwoah-md/dotfiles) - dotfiles setup for icy@nix
 - [olafkfreund/nix-craftapps](https://github.com/olafkfreund/nix-craftapps) - Nix flake for the ArtCraft Crafting Apps (storytold): 12 pure-Rust creative apps, with NixOS and Home Manager modules
-- [schembriaiden/helium-browser-nix-flake](https://github.com/schembriaiden/helium-browser-nix-flake) - Nix Flake for Helium Browser
 
 #### 📰 Recent Blog Posts
 
