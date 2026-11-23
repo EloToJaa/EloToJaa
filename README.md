@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [fix(nginx): raise default proxy timeout to 10 minutes](https://github.com/EloToJaa/dotfiles/pull/828) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [fix(alloy): fix Alloy crash on worker by using top-level otelcol basic auth](https://github.com/EloToJaa/dotfiles/pull/825) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(homelab): add missing Gatus endpoints](https://github.com/EloToJaa/dotfiles/pull/824) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Require basic auth on observability write endpoints](https://github.com/EloToJaa/dotfiles/pull/823) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Add Tempo, systemd units and RED Grafana dashboards](https://github.com/EloToJaa/dotfiles/pull/822) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [Accept out-of-order samples in Prometheus for 30m](https://github.com/EloToJaa/dotfiles/pull/821) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
