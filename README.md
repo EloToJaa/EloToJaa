@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
-- [fix(nginx): raise default proxy timeout to 10 minutes](https://github.com/EloToJaa/dotfiles/pull/828) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(alloy): fix Alloy crash on worker by using top-level otelcol basic auth](https://github.com/EloToJaa/dotfiles/pull/825) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(homelab): add missing Gatus endpoints](https://github.com/EloToJaa/dotfiles/pull/824) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [Require basic auth on observability write endpoints](https://github.com/EloToJaa/dotfiles/pull/823) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [Add Tempo, systemd units and RED Grafana dashboards](https://github.com/EloToJaa/dotfiles/pull/822) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(authelia): serve the portal and OIDC issuer from auth.server](https://github.com/EloToJaa/dotfiles/pull/854) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(authelia): pin OIDC and forward-auth URL to auth.server and make Jellyfin internal-only](https://github.com/EloToJaa/dotfiles/pull/853) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(yamtrack): pass the OIDC providers file as a service credential](https://github.com/EloToJaa/dotfiles/pull/852) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [refactor(authelia): share OIDC client boilerplate and generate the Jellyfin secret](https://github.com/EloToJaa/dotfiles/pull/851) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [fix(authelia): repair Matrix SSO and limit admin services to lldap_admin](https://github.com/EloToJaa/dotfiles/pull/850) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
