@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [Add Glance dashboard at home.server.elotoja.com](https://github.com/EloToJaa/dotfiles/pull/868) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [Enable soft wrap and direnv loading in Zed](https://github.com/EloToJaa/dotfiles/pull/867) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(ai): add TrueNAS and UniFi Network MCP servers](https://github.com/EloToJaa/dotfiles/pull/866) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [Back up server from btrfs snapshots to cut service downtime](https://github.com/EloToJaa/dotfiles/pull/865) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [chore(musicseerr): remove module and package](https://github.com/EloToJaa/dotfiles/pull/861) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [docs(stalwart): note why Authelia integration is deferred on Stalwart 0.15](https://github.com/EloToJaa/dotfiles/pull/860) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(gatus): authelia oidc single sign-on](https://github.com/EloToJaa/dotfiles/pull/859) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(cleanuparr): register an Authelia OIDC client for single sign-on](https://github.com/EloToJaa/dotfiles/pull/858) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(vaultwarden): generate the admin token as an argon2 hash and discard the plaintext](https://github.com/EloToJaa/dotfiles/pull/857) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
