@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
-- [fix(authelia): serve the portal and OIDC issuer from auth.server](https://github.com/EloToJaa/dotfiles/pull/854) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(authelia): pin OIDC and forward-auth URL to auth.server and make Jellyfin internal-only](https://github.com/EloToJaa/dotfiles/pull/853) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(yamtrack): pass the OIDC providers file as a service credential](https://github.com/EloToJaa/dotfiles/pull/852) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [refactor(authelia): share OIDC client boilerplate and generate the Jellyfin secret](https://github.com/EloToJaa/dotfiles/pull/851) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [fix(authelia): repair Matrix SSO and limit admin services to lldap_admin](https://github.com/EloToJaa/dotfiles/pull/850) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [chore(musicseerr): remove module and package](https://github.com/EloToJaa/dotfiles/pull/861) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [docs(stalwart): note why Authelia integration is deferred on Stalwart 0.15](https://github.com/EloToJaa/dotfiles/pull/860) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(gatus): authelia oidc single sign-on](https://github.com/EloToJaa/dotfiles/pull/859) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(cleanuparr): register an Authelia OIDC client for single sign-on](https://github.com/EloToJaa/dotfiles/pull/858) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(vaultwarden): generate the admin token as an argon2 hash and discard the plaintext](https://github.com/EloToJaa/dotfiles/pull/857) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
