@@ -30,11 +30,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### ⭐ Recent Stars
 
+- [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) - Rewrite your whole app in Rust, one piece at a time, checked against the original&#39;s recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
 - [n8n-io/nod](https://github.com/n8n-io/nod) - Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.
 - [rootscripts/riff](https://github.com/rootscripts/riff) - Riff is the best, free music player with YouTube Music &amp; SoundCloud library and WebGL shader visuals. No backend or telemetry. No paid tiers.
 - [Mic92/auto-merge](https://github.com/Mic92/auto-merge) - A GitHub action that will automatically approve and merge pull requests based on configurable rules.
 - [bwoah-md/dotfiles](https://github.com/bwoah-md/dotfiles) - dotfiles setup for icy@nix
-- [olafkfreund/nix-craftapps](https://github.com/olafkfreund/nix-craftapps) - Nix flake for the ArtCraft Crafting Apps (storytold): 12 pure-Rust creative apps, with NixOS and Home Manager modules
 
 #### 📰 Recent Blog Posts
 
