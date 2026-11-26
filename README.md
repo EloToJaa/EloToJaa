@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [refactor(immich): run on the host with the shared postgres instance](https://github.com/EloToJaa/dotfiles/pull/872) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(homelab): add unifi console as homelab host, remove pve](https://github.com/EloToJaa/dotfiles/pull/871) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [feat(glance): hide hbox, regroup services, add TrueNAS and UniFi](https://github.com/EloToJaa/dotfiles/pull/870) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(readme): add service icons and limit list to dashboard hosts](https://github.com/EloToJaa/dotfiles/pull/869) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [Add Glance dashboard at home.server.elotoja.com](https://github.com/EloToJaa/dotfiles/pull/868) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [Enable soft wrap and direnv loading in Zed](https://github.com/EloToJaa/dotfiles/pull/867) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(ai): add TrueNAS and UniFi Network MCP servers](https://github.com/EloToJaa/dotfiles/pull/866) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [Back up server from btrfs snapshots to cut service downtime](https://github.com/EloToJaa/dotfiles/pull/865) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
