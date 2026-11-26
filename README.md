@@ -22,15 +22,15 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [feat(desktop): add luciole file manager](https://github.com/EloToJaa/dotfiles/pull/876) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [refactor(immich): run on the host with the shared postgres instance](https://github.com/EloToJaa/dotfiles/pull/872) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(homelab): add unifi console as homelab host, remove pve](https://github.com/EloToJaa/dotfiles/pull/871) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(glance): hide hbox, regroup services, add TrueNAS and UniFi](https://github.com/EloToJaa/dotfiles/pull/870) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(readme): add service icons and limit list to dashboard hosts](https://github.com/EloToJaa/dotfiles/pull/869) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [Add Glance dashboard at home.server.elotoja.com](https://github.com/EloToJaa/dotfiles/pull/868) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
-- [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) - Rewrite your whole app in Rust, one piece at a time, checked against the original&#39;s recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
+- [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) - Rewrite your app in Rust, piece by piece, checked against the original at every step. Works with TypeScript, JavaScript, Python, Go, Ruby, Java, C, PHP, C#, Kotlin and PowerShell.
 - [n8n-io/nod](https://github.com/n8n-io/nod) - Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.
 - [rootscripts/riff](https://github.com/rootscripts/riff) - Riff is the best, free music player with YouTube Music &amp; SoundCloud library and WebGL shader visuals. No backend or telemetry. No paid tiers.
 - [Mic92/auto-merge](https://github.com/Mic92/auto-merge) - A GitHub action that will automatically approve and merge pull requests based on configurable rules.
