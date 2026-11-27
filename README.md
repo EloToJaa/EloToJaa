@@ -22,11 +22,11 @@ I'm Łukasz. I'm a software engineer. I like to explore different technologies a
 
 #### 🔨 My recent Pull Requests
 
+- [fix(clan): back up worker and let the deploy user list borgbackup archives](https://github.com/EloToJaa/dotfiles/pull/879) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
+- [refactor(ai): source agent skills from flake inputs](https://github.com/EloToJaa/dotfiles/pull/878) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(desktop): add luciole file manager](https://github.com/EloToJaa/dotfiles/pull/876) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [refactor(immich): run on the host with the shared postgres instance](https://github.com/EloToJaa/dotfiles/pull/872) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 - [feat(homelab): add unifi console as homelab host, remove pve](https://github.com/EloToJaa/dotfiles/pull/871) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(glance): hide hbox, regroup services, add TrueNAS and UniFi](https://github.com/EloToJaa/dotfiles/pull/870) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
-- [feat(readme): add service icons and limit list to dashboard hosts](https://github.com/EloToJaa/dotfiles/pull/869) on [EloToJaa/dotfiles](https://github.com/EloToJaa/dotfiles)
 
 #### ⭐ Recent Stars
 
